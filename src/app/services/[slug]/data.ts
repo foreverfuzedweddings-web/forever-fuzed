@@ -280,7 +280,7 @@ export const servicesData: Record<string, ServiceData> = {
       },
       { src: "/009A2088.jpg", alt: "Event production", category: "Production" },
       { src: "/009A2365.jpg", alt: "Vendor styling", category: "Styling" },
-      { src: "/DEEP7459.jpg", alt: "Décor vendor", category: "Décor" },
+      { src: "/DEEP7459.JPG", alt: "Décor vendor", category: "Décor" },
       { src: "/009A2089.jpg", alt: "Venue setup", category: "Venue" },
       { src: "/009A2099.jpg", alt: "Floral vendor", category: "Florals" },
       { src: "/009A2353.jpg", alt: "Guest experience", category: "Experience" },
