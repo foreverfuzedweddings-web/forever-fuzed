@@ -33,7 +33,7 @@ const portraitImages = [
     category: "Florals",
   },
   {
-    src: "/DEEP7480.jpg",
+    src: "/DEEP7480.JPG",
     alt: "Couple portrait",
     category: "Portraits",
   },
@@ -61,12 +61,12 @@ const squareImages = [
     category: "Gifting",
   },
   {
-    src: "/DEEP9489.jpg",
+    src: "/DEEP9489.JPG",
     alt: "Venue",
     category: "Venue",
   },
   {
-    src: "/DEEP9495.jpg",
+    src: "/DEEP9495.JPG",
     alt: "Styling",
     category: "Styling",
   },
