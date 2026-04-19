@@ -215,7 +215,96 @@ export default function ServicePageClient({ slug }: { slug: string }) {
         </div>
       </section>
 
-      {/* ── 3. Highlights ── */}
+      {/* ── 3. Detail Sections (optional, e.g. wedding-styling) ── */}
+      {service.detailSections && service.detailSections.length > 0 && (
+        <section className="bg-[#3D4F3C] py-16 md:py-24 overflow-hidden">
+          {/* Section label */}
+          <motion.div
+            variants={fadeUp}
+            initial="hidden"
+            whileInView="show"
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+            className="flex items-center gap-4 px-6 md:px-12 lg:px-20 max-w-7xl mx-auto mb-12"
+          >
+            <div className="h-px w-10" style={{ backgroundColor: service.accent }} />
+            <span
+              className="font-lato text-[10px] tracking-[0.4em] uppercase"
+              style={{ color: service.accent }}
+            >
+              In Detail
+            </span>
+            <div className="h-px flex-1 bg-white/8" />
+          </motion.div>
+
+          <div className="max-w-7xl mx-auto px-6 md:px-12 lg:px-20">
+            {service.detailSections.map((section, i) => (
+              <motion.div
+                key={i}
+                variants={fadeUp}
+                initial="hidden"
+                whileInView="show"
+                viewport={{ once: true }}
+                transition={{ duration: 0.75, delay: 0.1 }}
+                className={`relative flex flex-col lg:flex-row items-start gap-8 lg:gap-16 py-10 md:py-14 ${
+                  i > 0 ? "border-t border-white/8" : ""
+                } ${i % 2 === 1 ? "lg:flex-row-reverse" : ""}`}
+              >
+                {/* Heading column */}
+                <div className="lg:w-[42%] relative z-10 shrink-0 overflow-hidden">
+                  {/* Ghost number — clipped inside heading column */}
+                  <div
+                    className="absolute bottom-0 right-2 font-cormorant font-light select-none pointer-events-none leading-none text-[72px] md:text-[90px] opacity-[0.08] text-white"
+                    aria-hidden="true"
+                  >
+                    {String(i + 1).padStart(2, "0")}
+                  </div>
+
+                  <div className="flex items-center gap-3 mb-5">
+                    <span
+                      className="font-cormorant italic text-[13px] tracking-widest"
+                      style={{ color: `${service.accent}99` }}
+                    >
+                      {String(i + 1).padStart(2, "0")}
+                    </span>
+                    <div className="h-px flex-1" style={{ backgroundColor: `${service.accent}40` }} />
+                  </div>
+                  <h3 className="font-cormorant text-white font-light text-2xl md:text-3xl xl:text-[36px] leading-[1.15] mb-6">
+                    {section.heading}
+                  </h3>
+                  {/* Decorative bracket */}
+                  <div
+                    className="w-10 h-10 border-l-2 border-b-2"
+                    style={{ borderColor: `${service.accent}50` }}
+                  />
+                </div>
+
+                {/* Body column */}
+                <div className="lg:flex-1 relative z-10">
+                  <div
+                    className="w-px h-8 mb-5 hidden lg:block"
+                    style={{ backgroundColor: `${service.accent}35` }}
+                  />
+                  <p className="font-lato text-white/50 text-[14px] md:text-[15px] leading-[2.1] tracking-wide">
+                    {section.body}
+                  </p>
+                  <div className="flex items-center gap-3 mt-6">
+                    <div className="w-1.5 h-1.5 rotate-45" style={{ backgroundColor: `${service.accent}60` }} />
+                    <div className="h-px w-12" style={{ backgroundColor: `${service.accent}30` }} />
+                  </div>
+                </div>
+              </motion.div>
+            ))}
+          </div>
+
+          {/* Bottom border fade */}
+          <div className="h-px max-w-7xl mx-auto mt-16 px-6 md:px-12 lg:px-20">
+            <div className="h-px bg-white/8" />
+          </div>
+        </section>
+      )}
+
+      {/* ── 4. Highlights ── */}
       <section className="bg-white py-24 px-6">
         <div className="max-w-7xl mx-auto">
           <motion.div
@@ -268,7 +357,7 @@ export default function ServicePageClient({ slug }: { slug: string }) {
         </div>
       </section>
 
-      {/* ── 4. Gallery ── */}
+      {/* ── 5. Gallery ── */}
       <section className="bg-[#FAF8F5] py-24 md:py-32 overflow-hidden">
         <div className="px-6 max-w-7xl mx-auto mb-14">
           <motion.div
@@ -399,7 +488,7 @@ export default function ServicePageClient({ slug }: { slug: string }) {
         </AnimatePresence>
       </section>
 
-      {/* ── 5. CTA ── */}
+      {/* ── 6. CTA ── */}
       <ServiceCTA service={service} />
     </main>
   );
