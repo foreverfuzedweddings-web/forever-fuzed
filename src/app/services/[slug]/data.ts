@@ -153,8 +153,8 @@ export const servicesData: Record<string, ServiceData> = {
     title: "Seamless Event Logistics & Guest Management",
     tagline: "Precision Behind Every Perfect Moment",
     accent: "#9CA195",
-    heroImage: "/DEEP9447.jpg",
-    overviewImage: "/DEEP9443.jpg",
+    heroImage: "/DEEP9447.JPG",
+    overviewImage: "/DEEP9443.JPG",
     intro: "Behind every flawless celebration is precise planning.",
     paragraphs: [
       "We manage all logistical elements—from guest coordination and transportation to timelines and on-ground execution—ensuring everything flows effortlessly.",

@@ -23,7 +23,7 @@ function AboutHero() {
       {/* Background */}
       <div className="absolute inset-0">
         <Image
-          src="/DEEP9447.jpg"
+          src="/DEEP9447.JPG"
           alt=""
           fill
           className="object-cover object-center"
@@ -128,7 +128,7 @@ function FounderSection() {
             {/* Photo — Next.js Image component (photo drops in as /founder.jpg) */}
             <div className="relative aspect-3/4 w-full max-w-sm mx-auto lg:mx-0 rounded-[2rem] overflow-hidden bg-[#f0ebe5]">
               <Image
-                src="/founder.jpg"
+                src="/founder.JPG"
                 alt="Surbhi Singh — Founder, Forever Fuzed"
                 fill
                 sizes="(max-width: 768px) 90vw, 420px"

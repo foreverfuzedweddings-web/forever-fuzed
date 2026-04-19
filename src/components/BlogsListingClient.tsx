@@ -28,7 +28,7 @@ export default function BlogsListingClient() {
       <section className="relative w-full h-screen min-h-150 overflow-hidden">
         {/* Background image */}
         <Image
-          src="/DEEP9454.jpg"
+          src="/DEEP9454.JPG"
           alt="The Journal — Forever Fuzed"
           fill
           className="object-cover object-center"
