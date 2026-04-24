@@ -38,7 +38,7 @@ function ContactHero() {
       <div className="absolute inset-0">
         <Image
           src="/DEEP9442.JPG"
-          alt=""
+          alt="Luxury wedding venue — Forever Fuzed event planning"
           fill
           className="object-cover object-center"
           priority
@@ -964,7 +964,7 @@ function ClosingStrip() {
       <div className="absolute inset-0 -z-10">
         <Image
           src="/DEEP9458.JPG"
-          alt="/contact background"
+          alt="Grand wedding reception — Forever Fuzed luxury events"
           fill
           className="object-cover object-center"
           quality={85}
