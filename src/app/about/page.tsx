@@ -24,7 +24,7 @@ function AboutHero() {
       <div className="absolute inset-0">
         <Image
           src="/DEEP9447.JPG"
-          alt=""
+          alt="Luxury wedding celebration — Forever Fuzed event planning"
           fill
           className="object-cover object-center"
           priority
@@ -686,7 +686,7 @@ function AboutCTA() {
       <div className="absolute inset-0 -z-10">
         <Image
           src="/DEEP7495.jpg"
-          alt=""
+          alt="Elegant destination wedding decor — Forever Fuzed India"
           fill
           className="object-cover object-center"
           quality={85}

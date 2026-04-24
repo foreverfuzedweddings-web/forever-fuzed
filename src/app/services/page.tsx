@@ -213,7 +213,7 @@ export default function ServicesPage() {
         <div className="absolute inset-0">
           <Image
             src="/DEEP9452.jpg"
-            alt=""
+            alt="Luxury wedding event — Forever Fuzed services"
             fill
             className="object-cover object-center"
             quality={85}
