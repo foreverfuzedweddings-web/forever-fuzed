@@ -66,6 +66,9 @@ export const metadata: Metadata = {
     icon: "/logo/forever-logo.png",
     apple: "/logo/forever-logo.png",
   },
+  verification: {
+    google: "FpItK36AwhUb1mbrpmpYof5cBYKV2HULrJZ2Kw-E9dE",
+  },
 };
 
 export default function RootLayout({
