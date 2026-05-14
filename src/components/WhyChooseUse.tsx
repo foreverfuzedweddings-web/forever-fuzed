@@ -8,7 +8,7 @@ const reasons = [
     number: "01",
     title: "We've Lived Your Story",
     description:
-      "Our founder personally navigated the chaos of planning a grand destination wedding from Canada. We don't just understand your challenges — we've felt them. That empathy is built into every decision we make.",
+      "Our founder personally navigated the chaos of planning a grand NRI destination wedding from Canada. We don't just understand your challenges — we've felt them. That empathy is built into every decision we make.",
     accent: "#F2A7B0",
   },
   {
