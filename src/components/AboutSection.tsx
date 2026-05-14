@@ -115,9 +115,9 @@ export default function FounderTeaser() {
           >
             From planning weddings in India to refining her craft across Canada,
             Surbhi brings a decade of global experience to every celebration.
-            Her own destination wedding — a multi-crore event coordinated from
-            overseas — revealed a gap no one was filling for NRIs. That gap
-            became her mission.
+            Her own experience in planning a multicore celebration overseas inspired
+            her to build foreverfuzed - a trusted destination wedding planner for NRI's
+            and couple based globally.
           </motion.p>
 
           <motion.p
