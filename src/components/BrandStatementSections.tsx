@@ -58,10 +58,8 @@ export default function BrandStatement() {
           transition={{ duration: 0.7, delay: 0.4, ease: "easeOut" }}
           className="mt-6 font-lato text-[#6b5f5a] text-base sm:text-lg leading-relaxed max-w-2xl tracking-wide"
         >
-          Every love story is unique. Every celebration deserves to be
-          extraordinary. At Forever Fuzed, we bring together artistry,
-          intention, and flawless execution — so you can be fully present in
-          every moment that matters.
+          As luxury Destination Wedding Planners, we bring together artistry,
+          intention, and flawless execution to create celebrations that feel effortless and unforgettable.
         </motion.p>
 
         {/* Bottom decorative strip */}
