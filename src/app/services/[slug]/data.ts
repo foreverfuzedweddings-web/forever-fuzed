@@ -24,15 +24,15 @@ export const servicesData: Record<string, ServiceData> = {
   "wedding-styling": {
     number: "01",
     title: "Wedding Styling & Design",
-    tagline: "Where Vision Meets Artistry",
+    tagline: "Where Vision Meets Artistry- With India's Best wedding planner",
     accent: "#9CA195",
     heroImage: "/DEEP7090.jpg",
     overviewImage: "/DEEP7089.jpg",
     intro:
       "We craft visually stunning wedding experiences that reflect your story, culture, and aesthetic.",
     paragraphs: [
-      "From concept to execution, every element—color palettes, décor, floral artistry, tablescapes, and ambiance—is thoughtfully curated to create a seamless and luxurious setting.",
-      "Our approach blends modern elegance with timeless traditions, ensuring every celebration feels personal, immersive, and unforgettable.",
+      "As the Best Indian Wedding Planners for NRI's, we understand how to seamlessly blend modern elegance with timeless traditions, ensuring every celebration feels personal, immersive, and deeply connected to your roots.",
+      "From concept to flawless execution, our Luxury wedding management services take care of every single element. Color palettes, bespoke décor, floral artistry, custom tablescapes, and ambient lighting are all thoughtfully curated to create an unforgettable, seamless, and luxurious setting for your big day.",
     ],
     detailSections: [
       {
