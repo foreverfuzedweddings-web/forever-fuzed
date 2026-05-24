@@ -37,7 +37,7 @@ export const servicesData: Record<string, ServiceData> = {
     detailSections: [
       {
         heading: "Design, Décor & Visual Storytelling",
-        body: "Your wedding should look and feel like you — not like every other wedding on Instagram. We create fully custom design concepts for each event, whether it is your Mehndi, Haldi, Sangeet, Wedding, or Reception. From mood boards and colour palettes to floral installations, mandap design, stage setups, lighting, and experiential décor — every visual element is crafted to reflect your personalities, your cultures, and your love story.",
+        body: "Your wedding should look and feel like you — not like every other wedding on Instagram. We create fully custom design concepts for each event, whether it is your Mehndi, Haldi, Sangeet, Wedding, or Reception. As part of our luxury wedding management services, every detail — from mood boards and colour palettes to floral installations, mandap design, stage setups, lighting, and experiential décor — is thoughtfully crafted to reflect your personalities, your cultures, and your love story.",
       },
       {
         heading: "Wardrobe, Styling & Personal Shopping",
