@@ -14,7 +14,7 @@ const testimonials = [
   },
   {
     quote:
-      "As an NRI couple planning our wedding in Jaipur from Vancouver, we were terrified of the logistics. Forever Fuzed handled everything end-to-end. Our guests are still talking about it two years later.",
+      "As an NRI couple planning our destination wedding in Jaipur from Vancouver, we were terrified of the logistics. Forever Fuzed handled everything end-to-end with seamless wedding management services. Our guests are still talking about the experience two years later",
     name: "Simran & Karan Bedi",
     event: "Royal Wedding · Jaipur, Rajasthan",
     initials: "SB",
