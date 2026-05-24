@@ -79,7 +79,7 @@ export const servicesData: Record<string, ServiceData> = {
     heroImage: "/009A2302.jpg",
     overviewImage: "/009A2350.jpg",
     intro:
-      "We design bespoke gifting experiences that leave a lasting impression.",
+      "We craft bespoke Luxury Gift Hampers with hand-selected treasures and immaculate packaging, transforming the art of gifting into an unforgettable statement of appreciation that leaves a lasting impression.",
     paragraphs: [
       "From curated welcome hampers to elegant wedding favors, each piece is tailored to your theme and thoughtfully sourced. Expect premium packaging, personalized details, and globally inspired concepts.",
       "Every gift reflects sophistication and gratitude for your guests—crafted to be remembered long after the celebrations end.",
