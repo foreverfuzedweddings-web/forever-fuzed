@@ -6,7 +6,7 @@ import { motion, AnimatePresence } from "framer-motion";
 const testimonials = [
   {
     quote:
-      "Surbhi understood our vision before we even articulated it fully. Every detail — from the mandap florals to the guest welcome kits — was flawlessly executed. Planning from Toronto felt completely stress-free.",
+      "Surbhi understood our vision before we even articulated it fully. Every detail — from the mandap florals to the guest welcome kits — was flawlessly executed. Planning our Luxury Destination Wedding from Toronto felt completely stress-free",
     name: "Priya & Arjun Mehta",
     event: "Destination Wedding · Udaipur, Rajasthan",
     initials: "PM",
