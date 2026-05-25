@@ -87,7 +87,7 @@ export const servicesData: Record<string, ServiceData> = {
     detailSections: [
       {
         heading: "Gifting, Hampers & Guest Experience",
-        body: "The details your guests experience from the moment they arrive to the moment they leave define how they remember your wedding. We curate welcome hampers, personalized return gifts, event-specific favours, and VIP guest experiences that reflect the warmth and thoughtfulness of your celebration. Whether you need gifting for 50 guests or 500, we bring the same care and attention to every piece.",
+        body: "The details your guests experience from the moment they arrive to the moment they leave define how they remember your wedding. Our luxury gift hampers are thoughtfully curated alongside personalized return gifts, event-specific favours, and VIP guest experiences that reflect the warmth and elegance of your celebration. Whether you need gifting for 50 guests or 500, we bring the same care, creativity, and attention to every detail.",
       },
     ],
     highlights: [
@@ -120,15 +120,16 @@ export const servicesData: Record<string, ServiceData> = {
   entertainment: {
     number: "03",
     title: "Curated Entertainment Experiences",
-    tagline: "Moments That Captivate",
+    tagline: "As a luxury wedding event planner, we curate immersive entertainment experiences designed to create unforgettable moments for every celebration.",
     accent: "#C9A96E",
     heroImage: "/009A2087.jpg",
     overviewImage: "/009A0518.jpg",
     intro:
       "We bring your celebrations to life with carefully curated entertainment that captivates and engages.",
     paragraphs: [
-      "From live performers and celebrity artists to immersive cultural acts and high-energy productions, we design moments that elevate every event.",
-      "Each experience is tailored to your audience, ensuring energy, elegance, and unforgettable memories that resonate for years to come.",
+      "From live performers and celebrity artists to immersive cultural acts and high-energy productions, our team creates extraordinary entertainment experiences designed to elevate every celebration with elegance and grandeur. Recognized among the Best Luxury Wedding Planner in India for NRIs, we thoughtfully curate every performance and guest experience to reflect your vision, audience, and cultural sensibilities.
+
+    "Each celebration is seamlessly tailored with sophistication, energy, and world-class execution — creating unforgettable moments and timeless memories that resonate long after the wedding festivities conclude.",
     ],
     detailSections: [
       {
