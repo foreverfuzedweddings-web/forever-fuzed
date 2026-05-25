@@ -127,7 +127,7 @@ export const servicesData: Record<string, ServiceData> = {
     intro:
       "We bring your celebrations to life with carefully curated entertainment that captivates and engages.",
     paragraphs: [
-      "From live performers and celebrity artists to immersive cultural acts and high-energy productions, our team creates extraordinary entertainment experiences designed to elevate every celebration with elegance and grandeur. Recognized among the Best Luxury Wedding Planner in India for NRIs, we thoughtfully curate every performance and guest experience to reflect your vision, audience, and cultural sensibilities.
+      "From live performers and celebrity artists to immersive cultural acts and high-energy productions, our team creates extraordinary entertainment experiences designed to elevate every celebration with elegance and grandeur. Recognized among the Best Luxury Wedding Planner in India for NRIs, we thoughtfully curate every performance and guest experience to reflect your vision, audience, and cultural sensibilities.",
 
     "Each celebration is seamlessly tailored with sophistication, energy, and world-class execution — creating unforgettable moments and timeless memories that resonate long after the wedding festivities conclude.",
     ],
