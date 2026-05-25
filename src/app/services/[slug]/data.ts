@@ -74,15 +74,15 @@ export const servicesData: Record<string, ServiceData> = {
   "luxury-gifting": {
     number: "02",
     title: "Luxury Gifting & Wedding Hampers",
-    tagline: "Gifting That Leaves an Impression",
+    tagline: "Luxury Wedding Hampers Crafted for Memorable Weddings",
     accent: "#F2A7B0",
     heroImage: "/009A2302.jpg",
     overviewImage: "/009A2350.jpg",
     intro:
       "We craft bespoke Luxury Gift Hampers with hand-selected treasures and immaculate packaging, transforming the art of gifting into an unforgettable statement of appreciation that leaves a lasting impression.",
     paragraphs: [
-      "From curated welcome hampers to elegant wedding favors, each piece is tailored to your theme and thoughtfully sourced. Expect premium packaging, personalized details, and globally inspired concepts.",
-      "Every gift reflects sophistication and gratitude for your guests—crafted to be remembered long after the celebrations end.",
+      "From bespoke welcome gifts to exquisitely curated Luxury Wedding Hampers, every detail is thoughtfully designed to complement your wedding aesthetic with elegance and refinement. Featuring globally inspired concepts, premium artisanal selections, personalized touches, and luxurious packaging, each hamper is crafted to create an unforgettable guest experience.",
+      "Our Luxury Wedding Hampers are more than gifts — they are timeless expressions of sophistication, gratitude, and celebration, designed to leave a lasting impression long after the festivities conclude.",
     ],
     detailSections: [
       {
