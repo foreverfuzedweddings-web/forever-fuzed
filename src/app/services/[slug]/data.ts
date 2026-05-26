@@ -228,12 +228,12 @@ export const servicesData: Record<string, ServiceData> = {
   "vendor-curation": {
     number: "05",
     title: "Premium Vendor Curation & Management",
-    tagline: "Only the Best, Every Time",
+    tagline: "Premium Wedding Vendors Curation & Management",
     accent: "#F2A7B0",
     heroImage: "/009A2077.jpg",
     overviewImage: "/009A0506.jpg",
     intro:
-      "We collaborate with a trusted network of top-tier vendors across India and Canada to deliver exceptional quality.",
+      "We collaborate with a trusted network of top-tier vendors across India and Canada to deliver exceptional quality and thoughtfully curated dining experiences for every celebration.",
     paragraphs: [
       "From venues and décor to catering and production, every partner is carefully selected to align with our luxury standards.",
       "We handle sourcing, negotiation, and coordination—ensuring excellence, reliability, and a cohesive event experience.",
@@ -241,11 +241,11 @@ export const servicesData: Record<string, ServiceData> = {
     detailSections: [
       {
         heading: "Planning & Strategy",
-        body: "Every beautiful wedding begins with a clear, thoughtful plan. We build your complete wedding roadmap from day one — covering date selection, timeline creation, budget structuring, and family alignment on both sides. Whether you are planning 12 months or 18 months in advance, we ensure nothing is left to chance. We work across time zones, stay available for unlimited consultations, and make sure you always feel in control — no matter where in the world you are.",
+        body: "Every beautiful wedding begins with a clear, thoughtful plan. As part of our wedding vendors curation process, we build your complete wedding roadmap from day one — covering date selection, timeline creation, budget structuring, and family alignment on both sides. Whether you are planning 12 months or 18 months in advance, we ensure nothing is left to chance. We work across time zones, stay available for unlimited consultations, and make sure you always feel in control — no matter where in the world you are.",
       },
       {
         heading: "Venue & Hospitality",
-        body: "Finding the right venue is one of the most important decisions you will make, and we handle it entirely on your behalf. We research, shortlist, and visit properties across India — from luxury five-star hotels to heritage palaces and boutique resort destinations — and bring everything to you through virtual tours, detailed comparisons, and honest recommendations. We also manage all guest logistics including room allocations, airport transfers, check-in coordination, and hospitality throughout the celebration.",
+        body: "Finding the right venue is one of the most important decisions you will make, and we handle it entirely on your behalf. We research, shortlist, and visit properties across India — from luxury five-star hotels to heritage palaces and boutique resort destinations — and bring everything to you through virtual tours, detailed comparisons, and honest recommendations. We also coordinate every aspect of your guest experience, including room allocations, airport transfers, check-in management, hospitality, and curated food and beverage experiences throughout the celebration.",
       },
       {
         heading: "Catering & Culinary Experience",
