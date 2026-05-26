@@ -178,7 +178,7 @@ export const servicesData: Record<string, ServiceData> = {
 
   "event-logistics": {
     number: "04",
-    title: "Seamless Event Logistics & Guest Management",
+    title: "Seamless Hospitality and Event Management for Weddings",
     tagline: "Precision Behind Every Perfect Moment",
     accent: "#9CA195",
     heroImage: "/DEEP9447.JPG",
