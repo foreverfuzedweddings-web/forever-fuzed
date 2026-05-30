@@ -261,8 +261,8 @@ export const blogs: BlogPost[] = [
     "Your wedding is one of life's most cherished milestones, and choosing the right destination wedding planner can make all the difference.",
     "With the right team by your side, your destination wedding can become a beautifully organized celebration filled with unforgettable moments, lasting memories, and the joy of beginning your forever together."
   ],
-  nextSlug: "surbhi-and-raj-royal-wedding-jaipur",
-  nextTitle: "Surbhi & Raj's Royal Wedding in Jaipur",
+  nextSlug: "benefits-of-premium-wedding-management-services",
+  nextTitle: "Benefits of Premium Wedding Management Services for Signature Experiences",
 },
 
   // ── 07 ─────────────────────────────────────────────────────────────────
@@ -278,7 +278,8 @@ export const blogs: BlogPost[] = [
   cardImage: "/DEEP7067.jpg",
   category: "Wedding Planning",
   paragraphs: [
-    "Weddings today are far more than traditional ceremonies. They are deeply personal, luxurious celebrations designed to create unforgettable memories and meaningful experiences for couples and their loved ones. Choosing expert wedding management services that can seamlessly transform your vision into reality is one of the most important decisions you will make during your wedding journey. With countless planners and luxury service providers available, finding the right team can feel overwhelming. This is where experienced destination wedding planners become invaluable partners",
+    "Weddings today are far more than traditional ceremonies. They are deeply personal, luxurious celebrations designed to create unforgettable memories and meaningful experiences for couples and their loved ones. Choosing expert wedding management services that can seamlessly transform your vision into reality is one of the most important decisions you will make during your wedding journey",
+    "With countless planners and luxury service providers available, finding the right team can feel overwhelming. This is where experienced destination wedding planners become invaluable partners",
     "With years of expertise in curating extraordinary celebrations across breathtaking locations, destination wedding planners manage every intricate detail, allowing couples and families to fully enjoy the magic of the occasion without the burden of stress.",
 
     "Once you have found the person you wish to spend forever with, the next step is entrusting your celebration to professionals who can transform your dream wedding into an unforgettable reality.",
