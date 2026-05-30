@@ -335,5 +335,5 @@ export const blogs: BlogPost[] = [
   ],
   nextSlug: "destination-wedding-planner-guide",
   nextTitle: "Your Destination Wedding Planner Guide to Turn Your Big Day into a Fairytale",
-},
-
+}
+];
