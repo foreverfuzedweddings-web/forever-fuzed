@@ -287,9 +287,4 @@ export const blogs: BlogPost[] = [
   nextSlug: "surbhi-and-raj-royal-wedding-jaipur",
   nextTitle: "Surbhi & Raj's Royal Wedding in Jaipur",
 },
-
-  },
-
-  
-  
-];
+],
