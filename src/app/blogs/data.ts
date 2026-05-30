@@ -243,45 +243,25 @@ export const blogs: BlogPost[] = [
   category: "Wedding Planning",
   paragraphs: [
     "Planning your dream destination wedding is exciting, but it can also feel overwhelming. From selecting the perfect venue and coordinating travel arrangements to managing guest experiences and vendor partnerships, every detail requires careful planning.",
-
     "The good news? With the right destination wedding planner by your side, your dream celebration can become a seamless, luxurious, and unforgettable experience.",
-
     "A professional wedding planner not only saves you time and reduces stress but also ensures every aspect of your wedding reflects your vision, preferences, and budget.",
-
     "Unlike traditional local weddings, destination weddings involve unique logistical challenges, including travel coordination, venue management, local vendor sourcing, and guest hospitality.",
-
     "Even if you have already chosen your dream wedding destination, an experienced destination wedding planner is essential for managing every detail from concept to execution.",
-
     "At Forever Fuzed Weddings, our premium wedding planning services include personalized consultations and comprehensive event management tailored to your needs.",
-
     "Our wedding styling and design services cover every detail, including customized wedding themes, bespoke décor concepts, luxury floral arrangements, elegant tablescapes, ambient lighting design, and personalized guest experiences.",
-
     "By blending timeless traditions with contemporary sophistication, we curate weddings that are visually stunning, meaningful, and memorable.",
-
     "Every celebration is thoughtfully crafted around your story. From florals and lighting to décor and styling, every element is designed to reflect your personality rather than simply follow trends.",
-
     "Our wardrobe planning and styling services include designer outfit selection, jewellery coordination, shopping assistance, and styling consultations to ensure you and your family look impeccable throughout every wedding event.",
-
     "Luxury weddings deserve extraordinary entertainment. From celebrity performances and live music to immersive guest experiences and cultural showcases, curated entertainment creates lasting memories for everyone involved.",
-
     "Destination weddings involve extensive guest coordination. Professional planners manage airport transfers, hotel accommodations, transportation logistics, guest hospitality, event scheduling, and on-site coordination so you can focus on enjoying your celebration.",
-
     "An experienced destination wedding planner also provides premium vendor curation and management, connecting you with trusted caterers, photographers, cinematographers, beauty professionals, entertainers, and venue specialists.",
-
     "When hiring a destination wedding planner, always check their experience in your preferred destination. Whether you are planning a beach wedding in Goa, a royal celebration in Udaipur, or a mountain wedding in Shimla, local expertise can make a significant difference.",
-
     "Review their portfolio, real wedding photos and videos, client testimonials, and experience with luxury, cultural, or themed weddings before making your decision.",
-
     "It is equally important to understand the services included in their planning packages. Some planners offer full-service wedding planning, while others specialize in partial planning or wedding-day coordination.",
-
     "A skilled planner can help maximize your budget without compromising quality. Be transparent about your guest count, preferred destination, décor expectations, and overall wedding budget from the beginning.",
-
     "Communication and compatibility matter just as much as expertise. Choose a planner who understands your vision, responds promptly, communicates clearly, and makes you feel confident throughout the planning process.",
-
     "Before finalizing your planner, ask key questions about their experience, vendor coordination process, package inclusions, on-site support, and approach to handling last-minute challenges.",
-
     "Your wedding is one of life's most cherished milestones, and choosing the right destination wedding planner can make all the difference.",
-
     "With the right team by your side, your destination wedding can become a beautifully organized celebration filled with unforgettable moments, lasting memories, and the joy of beginning your forever together."
   ],
   nextSlug: "surbhi-and-raj-royal-wedding-jaipur",
