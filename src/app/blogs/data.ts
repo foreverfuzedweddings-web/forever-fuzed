@@ -406,4 +406,5 @@ export const blogs: BlogPost[] = [
   ],
   nextSlug: "benefits-of-premium-wedding-management-services",
   nextTitle: "Benefits of Premium Wedding Management Services for Signature Experiences",
-},
+}
+],
