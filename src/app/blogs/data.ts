@@ -229,4 +229,35 @@ export const blogs: BlogPost[] = [
     nextSlug: "surbhi-and-raj-royal-wedding-jaipur",
     nextTitle: "Surbhi & Raj\u2019s Royal Wedding in Jaipur",
   },
+// ── 06 ─────────────────────────────────────────────────────────────────
+  {
+    slug: "designing-personal-not-generic-weddings",
+    number: "06",
+    title: "Your Destination Wedding Planner Guide to Turn Your Big Day into a Fairytale",
+    subtitle: "Personal, Not Generic",
+    excerpt:
+      "No two love stories are the same \u2014 and no two weddings should be either. True luxury lies in originality, not repetition.",
+    accent: "#F2A7B0",
+    heroImage: "/DEEP9490.JPG",
+    cardImage: "/DEEP8535.JPG",
+    category: "Our Approach",
+    paragraphs: [
+      "No two love stories are the same \u2014 and at Forever Fuzed, no two weddings should be either.",
+      "In an era where inspiration is everywhere, it is easy to replicate trends. But true luxury lies in originality.",
+      "Our design process begins with you.",
+      "We take the time to understand your personalities, your journey, your preferences, and even the smallest details that define your relationship. This allows us to create a celebration that feels deeply personal rather than visually repetitive.",
+      "Instead of asking, \u201cWhat\u2019s trending?\u201d, we ask, \u201cWhat represents you?\u201d",
+      "From custom-designed experiences like storytelling mehendi and personalized performances, to curated d\u00e9cor concepts and guest interactions, every element is tailored to reflect your identity.",
+      "We don\u2019t believe in templates.",
+      "We believe in transformation.",
+      "The result is a wedding that doesn\u2019t just look beautiful \u2014 it feels authentic.",
+      "Because when a wedding is truly personal, it doesn\u2019t just impress.",
+      "It resonates.",
+    ],
+    nextSlug: "surbhi-and-raj-royal-wedding-jaipur",
+    nextTitle: "Surbhi & Raj\u2019s Royal Wedding in Jaipur",
+  },
+
+  
+  
 ];
