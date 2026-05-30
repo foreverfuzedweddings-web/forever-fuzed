@@ -238,8 +238,8 @@ export const blogs: BlogPost[] = [
   excerpt:
     "Planning a destination wedding can feel overwhelming, but the right wedding planner can transform your celebration into a seamless, luxurious, and unforgettable experience.",
   accent: "#F2A7B0",
-  heroImage: "/DEEP9490.JPG",
-  cardImage: "/DEEP8535.JPG",
+  heroImage: "/DEEP9499.JPG",
+  cardImage: "/009A2075.jpg",
   category: "Wedding Planning",
   paragraphs: [
     "Planning your dream destination wedding is exciting, but it can also feel overwhelming. From selecting the perfect venue and coordinating travel arrangements to managing guest experiences and vendor partnerships, every detail requires careful planning.",
