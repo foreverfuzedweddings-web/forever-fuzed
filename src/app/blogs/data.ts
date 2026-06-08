@@ -428,7 +428,7 @@ export const blogs: BlogPost[] = [
 
     {
       heading: "❤ Famous Wedding Destinations to Wed like Celebs with Luxury Event Planners",
-      paragraphs: [
+      paragraphs: 
         "1. Udaipur & Jaipur- Perfect for Royal Experiences",
         "Udaipur and Jaipur are ahead in the trend for couples dreaming of a regal wedding celebration.",
         "Grand palaces, majestic forts, and rich Rajasthani traditions together make these places spectacular destination wedding locations. Iconic venues like the City Palace and Jal Mahal beautifully combine heritage charm with modern luxury, perfectly matching the evolving NRI wedding trends of 2026, where intimate yet extravagant celebrations are grabbing attention.",
@@ -453,10 +453,9 @@ export const blogs: BlogPost[] = [
         "Your destination wedding deserves more than just planning; it deserves a flawlessly curated experience. From luxurious guest hospitality and elegant accommodations to bespoke styling, gourmet catering, seamless event & guest management, and thoughtful luxury gifting and hampers, every detail should come together effortlessly.",
         "With expert destination wedding event planners like Forever Fuzed Weddings, your wedding celebrations are transformed into unforgettable experiences where creativity meets precision, and every moment feels beautifully personal.",
         "So while the professionals handle the logistics, design, and coordination, you can simply focus on celebrating love, making memories, and beginning your forever in the most magical way possible."
-      ]
-    }
+     
   ],
   nextSlug: "benefits-of-premium-wedding-management-services",
   nextTitle: "Benefits of Premium Wedding Management Services for Signature Experiences",
-}
+},
  ];
