@@ -425,7 +425,9 @@ export const blogs: BlogPost[] = [
     "Wedding event planners help make your dream luxury wedding a reality. Still, with so many decisions to make, many couples wonder which venue to choose for their big day.",
 ​     "India hosts many famous wedding destinations featuring luxurious venues and palaces that offer worldclass experiences for NRI couples and their guests. From organizing memorable events to arranging premium accommodations,these venues make every moment special.",
 ​     "Planning your destination wedding in 2026? It’s okay to be picky about the venue you choose to make it happen.Being a renowned wedding planner for destination weddings, we at Forever Fuzed Weddings have curated these luxurious destinations that most couples love.",
-"heading: "\u2764"Famous Wedding Destinations to Wed like Celebs with Luxury Event Planners",
+    {
+    heading: "\u2764 Famous Wedding Destinations to Wed like Celebs with Luxury Event Planners",
+       paragraphs: [
 "1. Udaipur & Jaipur- Perfect for Royal Experiences",
 "Udaipur and Jaipur are ahead in the trend for couples dreaming of a regal wedding celebration.",
 "Grand palaces, majestic forts, and rich Rajasthani traditions together make these places spectacular destination wedding locations. Iconic venues like the City Palace and Jal Mahal beautifully combine heritage charm with modern luxury, perfectly matching the evolving NRI wedding trends of 2026, where intimate yet extravagant celebrations are grabbing attention.",
