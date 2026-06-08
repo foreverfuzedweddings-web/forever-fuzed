@@ -425,7 +425,7 @@ export const blogs: BlogPost[] = [
     "Wedding event planners help make your dream luxury wedding a reality. Still, with so many decisions to make, many couples wonder which venue to choose for their big day.",
 ​     "India hosts many famous wedding destinations featuring luxurious venues and palaces that offer worldclass experiences for NRI couples and their guests. From organizing memorable events to arranging premium accommodations,these venues make every moment special.",
 ​     "Planning your destination wedding in 2026? It’s okay to be picky about the venue you choose to make it happen.Being a renowned wedding planner for destination weddings, we at Forever Fuzed Weddings have curated these luxurious destinations that most couples love.",
-"Famous Wedding Destinations to Wed like Celebs with Luxury Event Planners",
+"heading: "\u2764"Famous Wedding Destinations to Wed like Celebs with Luxury Event Planners",
 "1. Udaipur & Jaipur- Perfect for Royal Experiences",
 "Udaipur and Jaipur are ahead in the trend for couples dreaming of a regal wedding celebration.",
 "Grand palaces, majestic forts, and rich Rajasthani traditions together make these places spectacular destination wedding locations. Iconic venues like the City Palace and Jal Mahal beautifully combine heritage charm with modern luxury, perfectly matching the evolving NRI wedding trends of 2026, where intimate yet extravagant celebrations are grabbing attention.",
@@ -441,7 +441,7 @@ export const blogs: BlogPost[] = [
 "The serene beauty of Shimla, Mussoorie, and Rishikesh is making the Himalayas a sought-after wedding escape. Surrounded by mountains, fresh air, and peaceful landscapes, these destinations are ideal for couples seeking intimate and soulful celebrations.",
 "Destination NRI wedding planners recommend these venues for couples who admire spirituality and traditions. The blend of calm, natural vibes adds to the delights of your wedding celebrations, alongside classic accommodations, traditional music, and the most welcoming guest experiences.",
 "Whether it’s a snowy winter wedding or a riverside ceremony paired with wellness and yoga experiences, these hill destinations offer a refreshing aura of luxury, nature, and tranquility.",
-"4. Kerala & The Backwaters: Nature-Inspired Luxury
+"4. Kerala & The Backwaters: Nature-Inspired Luxury",
 "Kerala is emerging as one of South India’s most enchanting wedding destinations. Known for its lush greenery, peaceful backwaters, and understated elegance, the state offers a unique setting for couples seeking a serene celebration. From scenic backwater resorts to the beautiful beaches of Kollam, Kerala creates the perfect atmosphere for wellness-inspired destination wedding places rooted in nature, simplicity, and luxury.",
 "Your Forever Journey Begins Here at Forever Fuzed",
 "Your destination wedding deserves more than just planning; it deserves a flawlessly curated experience. From luxurious guest hospitality and elegant accommodations to bespoke styling, gourmet catering, seamless event & guest management, and thoughtful luxury gifting and  hampers, every detail should come together effortlessly.",
