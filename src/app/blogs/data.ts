@@ -353,55 +353,30 @@ export const blogs: BlogPost[] = [
   category: "Wedding Planning",
   paragraphs: [
     "For NRI couples dreaming of a grand destination wedding in India, early planning is essential. From setting the budget and curating the guest list to selecting venues, vendors, décor, ceremony rituals, entertainment, and final arrangements, every detail deserves precise planning.",
-
     "With premium wedding planning services, couples receive a comprehensive roadmap that transforms the journey toward the big day into an experience of effortless elegance, organization, and confidence.",
-
     "The most successful celebrations begin with the key decisions that shape the entire experience: finalizing the budget, confirming the guest count, choosing the ideal wedding date, and securing the perfect destination venue.",
-
     "Whether you envision an intimate royal affair or an extravagant multi-day celebration, a sophisticated planning strategy ensures every moment feels intentional, luxurious, and beautifully executed.",
-
     "The earliest phase of destination wedding planning is where the entire celebration begins to take shape. Before selecting floral palettes, couture ensembles, entertainment, or décor aesthetics, couples should define the scale, style, and overall experience they wish to create.",
-
     "Establishing a realistic wedding budget is the first priority. Whether your focus is a luxury palace venue in Rajasthan, celebrity entertainment, gourmet catering, designer décor, cinematic photography, or bespoke bridal fashion, setting financial priorities early allows for smoother planning and better decision-making throughout the process.",
-
     "Creating an initial guest list is equally important. Guest count influences venue selection, accommodation requirements, hospitality logistics, transportation planning, catering, and the overall flow of wedding celebrations.",
-
     "Selecting the preferred wedding season or date range should also happen early in the planning journey. Popular destinations such as Udaipur, Jaipur, Jodhpur, Goa, Kerala, and Mussoorie experience high demand during wedding seasons, making advance reservations essential.",
-
     "Researching luxury wedding venues is another major milestone. Whether you choose a royal palace, luxury beachfront resort, heritage fort, or scenic mountain retreat, the venue becomes the centerpiece that influences the theme, ambiance, guest experience, photography, and overall wedding aesthetic.",
-
     "Once the foundation is established, couples can focus on defining the overall wedding style and atmosphere they wish to create.",
-
     "Whether you envision a regal palace wedding, a romantic beachside celebration, a sophisticated ballroom reception, or an intimate luxury gathering surrounded by close family and friends, establishing your aesthetic early helps guide every creative and logistical decision that follows.",
-
     "As planning progresses, attention shifts toward refining the celebration details and finalizing key production elements that require advance booking and customization.",
-
     "This includes curating wedding menus, signature cocktails, and dietary accommodations that elevate the culinary experience for guests.",
-
     "Couples should also finalize wedding cakes, dessert stations, traditional sweets, floral styling concepts, mandap designs, statement centerpieces, luxury tablescapes, lounge seating arrangements, and decorative installations.",
-
     "Entertainment planning becomes equally important during this phase, including booking DJs, live musicians, cultural performers, celebrity artists, wedding hosts, and immersive guest experiences.",
-
     "Photography and cinematography priorities should be discussed early to ensure every meaningful moment is captured beautifully across all wedding functions.",
-
     "Many couples also choose to incorporate meaningful family traditions, cultural ceremonies, and personalized experiences that reflect their heritage and unique love story.",
-
     "As the wedding date approaches, the focus shifts toward flawless execution and guest management.",
-
     "RSVP tracking, seating arrangements, vendor confirmations, setup schedules, entertainment timelines, ceremony music, photography schedules, and personalized guest experiences must all be carefully coordinated.",
-
     "Luxury gifting, welcome hampers, wedding favors, menus, dietary requests, bar selections, signage, place cards, and table numbers should also be finalized well in advance.",
-
     "Reviewing venue agreements, vendor contracts, delivery schedules, and guest count deadlines ensures that every aspect of the celebration unfolds seamlessly and without unnecessary stress.",
-
     "For NRI couples managing wedding planning across countries and time zones, having a structured planning process provides clarity, convenience, and peace of mind throughout the journey.",
-
     "A destination wedding in India is a beautiful blend of culture, emotion, luxury, and logistics. A carefully planned checklist allows couples and families to fully enjoy every celebration while experienced professionals manage the details behind the scenes.",
-
     "At Forever Fuzed Weddings, we specialize in creating extraordinary destination weddings across India's most iconic and luxurious locations.",
-
     "With expertise in NRI wedding planning, personalized hospitality, luxury event design, and seamless coordination, we ensure every celebration feels timeless, elegant, and effortlessly curated from the first consultation to the final farewell.",
-
     "Because the most memorable weddings are not simply planned—they are thoughtfully designed, beautifully executed, and cherished forever."
   ],
   nextSlug: "benefits-of-premium-wedding-management-services",
@@ -411,7 +386,7 @@ export const blogs: BlogPost[] = [
     // ── 09 ─────────────────────────────────────────────────────────────────
 
 {
-  slug: "Handpicked Wedding Venues for Your Forever Abroad",
+  slug: "Handpicked-Wedding-Venues-for-Your-Forever-Abroad",
   number: "09",
   title: "Iconic Wedding Venues to Discover With Expert Wedding Event Planners",
   subtitle: "Handpicked Wedding Venues for Your Forever Abroad",
