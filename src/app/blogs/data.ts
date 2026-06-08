@@ -432,8 +432,8 @@ export const blogs: BlogPost[] = [
 "2. Goa – Exotic Beach Weddings with a Modern Touch",
 "Goa not only attracts tourists but also the global NRI couples planning to marry. If you’re fond of beach weddings and are planning yours with a destination wedding event planner, this venue can take your plans beyond the classic beach ceremony.",  
 
-"In 2026, most couples choosing luxury wedding services prefer venues with exclusive beachfront properties, scenic cliffside venues, and stylish sunset spaces for multi-day wedding experiences in Goa.
-"From barefoot pheras by the sea to beach bonfires, boho décor, and adventure-filled guest activities, Goa offers the perfect balance of relaxation, celebration, and unforgettable NRI wedding experiences.
+"In 2026, most couples choosing luxury wedding services prefer venues with exclusive beachfront properties, scenic cliffside venues, and stylish sunset spaces for multi-day wedding experiences in Goa.",
+"From barefoot pheras by the sea to beach bonfires, boho décor, and adventure-filled guest activities, Goa offers the perfect balance of relaxation, celebration, and unforgettable NRI wedding experiences.",
 
 "From Palaces to Beaches- Get Expert Wedding Event Planners for Every Dream Venue",
 "Get in Touch",
