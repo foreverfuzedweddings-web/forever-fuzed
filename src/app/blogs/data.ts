@@ -446,61 +446,60 @@ export const blogs: BlogPost[] = [
   cardImage: "/ChatGPT Image Jun 21, 2026, 08_54_04 PM.png",
   category: "Luxury Giftings",
   paragraphs: [
-    "At a destination wedding, every detail contributes to the guest experience—and gifting is no exception. Thoughtfully curated luxury gift hampers for destination weddings are far more than just welcome gifts; they’re a refined expression of hospitality, gratitude, and celebration. For NRI couples hosting weddings in India, bespoke gifting experiences offer a beautiful way to bridge cultures, showcase local charm, and make every guest feel genuinely cherished."
-
-"From luxurious keepsakes and artisanal indulgences to personalised touches that reflect the couple’s story, each hamper is meticulously designed to create a memorable arrival experience."
-"Beyond its contents, a well-crafted hamper sets the tone for the festivities ahead, transforming a simple gesture into an unforgettable moment of delight." 
-
-"With professional luxury gifting and wedding hampers services, every moment becomes a seamless extension of the celebration- elevating guest comfort, enhancing the wedding journey, and leaving a lasting impression long after the final farewell."
+    "At a destination wedding, every detail contributes to the guest experience—and gifting is no exception. Thoughtfully curated luxury gift hampers for destination weddings are far more than just welcome gifts; they’re a refined expression of hospitality, gratitude, and celebration.", 
+    "For NRI couples hosting weddings in India, bespoke gifting experiences offer a beautiful way to bridge cultures, showcase local charm, and make every guest feel genuinely cherished.",
+     "From luxurious keepsakes and artisanal indulgences to personalised touches that reflect the couple’s story, each hamper is meticulously designed to create a memorable arrival experience.",
+     "Beyond its contents, a well-crafted hamper sets the tone for the festivities ahead, transforming a simple gesture into an unforgettable moment of delight.", 
+     "With professional luxury gifting and wedding hampers services, every moment becomes a seamless extension of the celebration- elevating guest comfort, enhancing the wedding journey, and leaving a lasting impression long after the final farewell.",
 
     
-"Luxury Gift Hampers: Why do they hold a Special Place in Destination Weddings"
-"In Indian weddings, gifting transcends tradition—it is an artful expression of hospitality, gratitude, and celebration. Luxury wedding gift hampers are not merely curated collections of exquisite items; they are thoughtful gestures that honour relationships, convey blessings, and create meaningful connections between the couple and their guests."
-"Every hamper becomes a symbol of appreciation, reflecting the warmth, elegance, and grandeur of the wedding itself.For discerning couples, especially those who’re relying on the best wedding planners, bespoke gifting offers an opportunity to craft a memorable guest experience from the very first welcome."
-"Carefully curated with premium artisanal products, personalised keepsakes, and culturally inspired treasures, these hampers embody sophistication while celebrating the essence of Indian traditions."
+"Luxury Gift Hampers: Why do they hold a Special Place in Destination Weddings",
+"In Indian weddings, gifting transcends tradition—it is an artful expression of hospitality, gratitude, and celebration. Luxury wedding gift hampers are not merely curated collections of exquisite items; they are thoughtful gestures that honour relationships, convey blessings, and create meaningful connections between the couple and their guests.",
+"Every hamper becomes a symbol of appreciation, reflecting the warmth, elegance, and grandeur of the wedding itself.For discerning couples, especially those who’re relying on the best wedding planners, bespoke gifting offers an opportunity to craft a memorable guest experience from the very first welcome.",
+"Carefully curated with premium artisanal products, personalised keepsakes, and culturally inspired treasures, these hampers embody sophistication while celebrating the essence of Indian traditions.",
 
-"A seasoned wedding event planner understands that the finer details define exceptional weddings" 
-"A luxury gift hamper is therefore woven seamlessly into the overall wedding journey,ensuring every guest feels valued,celebrated, and immersed in the couple's unique story. More than a takeaway gift, a thoughtfully designed hamper becomes a lasting keepsake—an elegant reminder of a once-in-a-lifetime celebration marked by impeccable hospitality and timeless charm."
+"A seasoned wedding event planner understands that the finer details define exceptional weddings",
+"A luxury gift hamper is therefore woven seamlessly into the overall wedding journey,ensuring every guest feels valued,celebrated, and immersed in the couple's unique story. More than a takeaway gift, a thoughtfully designed hamper becomes a lasting keepsake—an elegant reminder of a once-in-a-lifetime celebration marked by impeccable hospitality and timeless charm.",
     
 
-"A Wedding Experience to Cherish, A Luxury Gift to Remember."
-"Partner with Forever Fuzed Weddings for unforgettable luxury wedding gifting experiences—let's design your perfect celebration together."
-"Consult our wedding planners."
+"A Wedding Experience to Cherish, A Luxury Gift to Remember.",
+"Partner with Forever Fuzed Weddings for unforgettable luxury wedding gifting experiences—let's design your perfect celebration together.",
+"Consult our wedding planners.",
     
-"What Defines a Truly Luxury Return Gift Hamper for NRI Weddings?"
-"In the world of luxury weddings, a return gift or luxury hamper is more than a token of appreciation—it’s a reflection of the couple's style, hospitality, and attention to detail. A premium wedding hamper goes beyond beautiful packaging; it creates a memorable experience that guests associate with the celebration long after the festivities have ended."
-"At Forever Fuzed Weddings, our wedding event planners consider these elements that distinguish an exceptional wedding return luxury gift hamper from an ordinary one."
+"What Defines a Truly Luxury Return Gift Hamper for NRI Weddings?",
+"In the world of luxury weddings, a return gift or luxury hamper is more than a token of appreciation—it’s a reflection of the couple's style, hospitality, and attention to detail. A premium wedding hamper goes beyond beautiful packaging; it creates a memorable experience that guests associate with the celebration long after the festivities have ended.",
+"At Forever Fuzed Weddings, our wedding event planners consider these elements that distinguish an exceptional wedding return luxury gift hamper from an ordinary one.",
     
-"1. Curated Luxury, Not Generic Products"
-"The hallmark of a premium wedding hamper lies in the exclusivity and quality of its contents. Thoughtfully sourced artisanal products, gourmet delicacies, handcrafted keepsakes, and regionally inspired treasures offer a level of sophistication that mass-produced gifts simply cannot match. Every item should feel intentional, creating a sense of discovery and indulgence for the recipient."
+"1. Curated Luxury, Not Generic Products",
+"The hallmark of a premium wedding hamper lies in the exclusivity and quality of its contents. Thoughtfully sourced artisanal products, gourmet delicacies, handcrafted keepsakes, and regionally inspired treasures offer a level of sophistication that mass-produced gifts simply cannot match. Every item should feel intentional, creating a sense of discovery and indulgence for the recipient.",
   
-"2. Authenticity That Enhances the Experience"
-"Luxury and personalised gifts are rooted in authenticity. Whether it is handcrafted chocolates, estate-grown teas, artisanal preserves, or carefully sourced spices, premium hampers feature products with a story and a provenance.These thoughtfully selected elements elevate the gifting experience in NRI destination weddings and add depth, meaning, and cultural richness to every hamper."
+"2. Authenticity That Enhances the Experience",
+"Luxury and personalised gifts are rooted in authenticity. Whether it is handcrafted chocolates, estate-grown teas, artisanal preserves, or carefully sourced spices, premium hampers feature products with a story and a provenance.These thoughtfully selected elements elevate the gifting experience in NRI destination weddings and add depth, meaning, and cultural richness to every hamper.",
 
-"3. Elegant Presentation and Bespoke Packaging"
-"First impressions matter. Exquisite packaging transforms a gift into an experience before it is even opened. Premium wedding gift hampers feature refined aesthetics, superior craftsmanship, and personalised details such as custom monograms, wedding insignias, handwritten notes, or bespoke branding. The presentation should seamlessly complement the elegance of the wedding celebration itself."
+"3. Elegant Presentation and Bespoke Packaging",
+"First impressions matter. Exquisite packaging transforms a gift into an experience before it is even opened. Premium wedding gift hampers feature refined aesthetics, superior craftsmanship, and personalised details such as custom monograms, wedding insignias, handwritten notes, or bespoke branding. The presentation should seamlessly complement the elegance of the wedding celebration itself.",
 
-"4. Gifts That Create Lasting Memories"
-"The most meaningful wedding return gifts continue to be enjoyed long after the wedding day. Practical yet luxurious items encourage repeated use, allowing guests to relive special memories with every interaction. A beautifully curated hamper becomes more than a gift—it becomes a cherished reminder of a remarkable celebration and the hospitality behind it."
-5. Consistency at Scale for Grand Celebrations
-"For destination weddings and large-scale celebrations, consistency is a defining hallmark of premium luxury gift hampers."
-"Every guest, whether among the first arrivals or the last departures, should receive the same level of quality, presentation, and attention to detail. Professional wedding gifting partners ensure seamless execution, maintaining impeccable standards across every hamper delivered, along with perfect vendor curation and management."
+"4. Gifts That Create Lasting Memories",
+"The most meaningful wedding return gifts continue to be enjoyed long after the wedding day. Practical yet luxurious items encourage repeated use, allowing guests to relive special memories with every interaction. A beautifully curated hamper becomes more than a gift—it becomes a cherished reminder of a remarkable celebration and the hospitality behind it.",
+5. Consistency at Scale for Grand Celebrations,
+"For destination weddings and large-scale celebrations, consistency is a defining hallmark of premium luxury gift hampers.",
+"Every guest, whether among the first arrivals or the last departures, should receive the same level of quality, presentation, and attention to detail. Professional wedding gifting partners ensure seamless execution, maintaining impeccable standards across every hamper delivered, along with perfect vendor curation and management.",
 
 
-"Elevating Guest Experiences Through Luxury Gifting, wedding styling & design"
-"Get in touch for premium destination wedding services!"
-"The Destination Wedding Luxury Return Hamper"
-"Luxury gifting for destination weddings and celebrations attended by NRI families and international guests is meant to capture the essence of India's rich heritage."
-"These luxury gift hampers from wedding event planners feature premium regional treasures that guests can conveniently carry home, allowing them to relive the celebration long after their journey ends.More than a collection of exquisite products, this gifting experience tells a story. It introduces guests to India's finest artisanal flavours, cultural craftsmanship, and timeless traditions through carefully selected elements that reflect authenticity, elegance, and a sense of place. For overseas guests, these curated discoveries offer a rare opportunity to take home a meaningful piece of India—one that cannot be replicated elsewhere."
-"This makes the destination wedding hamper an exceptional choice for couples seeking to create a lasting impression while extending their hospitality beyond the wedding festivities."
-"Perfect For: Destination weddings, NRI celebrations, multicultural weddings, and international guest lists of any scale."
-"Luxury Positioning: A premium gifting experience that reflects the exclusivity, elegance, and significance of the occasion."
-"Personalisation Options: Bespoke packaging, custom wedding branding, personalised notes, destination-inspired storytelling cards, and multilingual guest communication."
-"The Lasting Impression: Guests leave not only with a beautiful gift but with a meaningful memory—an elegant reminder of a celebration they will remember for years to come."
-"Premium Luxury Gifting at Forever Fuzed Weddings: A Lasting Expression of Gratitude"
-"A truly exceptional wedding gift does more than mark the occasion—it preserves its essence. Long after the celebrations conclude, our destination wedding planners ensure our luxury gift hampers continue to evoke cherished memories, transforming everyday moments into reminders of an extraordinary experience."
-"For discerning NRI couples, premium wedding gifting is an extension of hospitality, elegance, and thoughtful storytelling. Every detail, from the curation to the presentation, is designed to leave a lasting impression that guests carry with them long after they return home."
-"Because the most memorable weddings are not only celebrated—they are remembered. And the finest gifts are those that keep the story alive."
+"Elevating Guest Experiences Through Luxury Gifting, wedding styling & design",
+"Get in touch for premium destination wedding services!",
+"The Destination Wedding Luxury Return Hamper",
+"Luxury gifting for destination weddings and celebrations attended by NRI families and international guests is meant to capture the essence of India's rich heritage.",
+"These luxury gift hampers from wedding event planners feature premium regional treasures that guests can conveniently carry home, allowing them to relive the celebration long after their journey ends.More than a collection of exquisite products, this gifting experience tells a story. It introduces guests to India's finest artisanal flavours, cultural craftsmanship, and timeless traditions through carefully selected elements that reflect authenticity, elegance, and a sense of place. For overseas guests, these curated discoveries offer a rare opportunity to take home a meaningful piece of India—one that cannot be replicated elsewhere.",
+"This makes the destination wedding hamper an exceptional choice for couples seeking to create a lasting impression while extending their hospitality beyond the wedding festivities.",
+"Perfect For: Destination weddings, NRI celebrations, multicultural weddings, and international guest lists of any scale.",
+"Luxury Positioning: A premium gifting experience that reflects the exclusivity, elegance, and significance of the occasion.",
+"Personalisation Options: Bespoke packaging, custom wedding branding, personalised notes, destination-inspired storytelling cards, and multilingual guest communication.",
+"The Lasting Impression: Guests leave not only with a beautiful gift but with a meaningful memory—an elegant reminder of a celebration they will remember for years to come.",
+"Premium Luxury Gifting at Forever Fuzed Weddings: A Lasting Expression of Gratitude",
+"A truly exceptional wedding gift does more than mark the occasion—it preserves its essence. Long after the celebrations conclude, our destination wedding planners ensure our luxury gift hampers continue to evoke cherished memories, transforming everyday moments into reminders of an extraordinary experience.",
+"For discerning NRI couples, premium wedding gifting is an extension of hospitality, elegance, and thoughtful storytelling. Every detail, from the curation to the presentation, is designed to leave a lasting impression that guests carry with them long after they return home.",
+"Because the most memorable weddings are not only celebrated—they are remembered. And the finest gifts are those that keep the story alive.",
 
      
   ],
