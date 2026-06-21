@@ -428,7 +428,7 @@ export const blogs: BlogPost[] = [
         "So while the professionals handle the logistics, design, and coordination, you can simply focus on celebrating love, making memories, and beginning your forever in the most magical way possible."
      
   ],
-  nextSlug: "Thoughtful gifting elevates destination weddings",
+  nextSlug: "​Thoughtful gifting elevates destination weddings",
   nextTitle: "​How Luxury Gift Hampers Set the Tone for Grand NRI Luxury Weddings",
 },
   
@@ -452,7 +452,7 @@ export const blogs: BlogPost[] = [
      "Beyond its contents, a well-crafted hamper sets the tone for the festivities ahead, transforming a simple gesture into an unforgettable moment of delight.", 
      "With professional luxury gifting and wedding hampers services, every moment becomes a seamless extension of the celebration- elevating guest comfort, enhancing the wedding journey, and leaving a lasting impression long after the final farewell.",
 
-    
+   
 "Luxury Gift Hampers: Why do they hold a Special Place in Destination Weddings",
 "In Indian weddings, gifting transcends tradition—it is an artful expression of hospitality, gratitude, and celebration. Luxury wedding gift hampers are not merely curated collections of exquisite items; they are thoughtful gestures that honour relationships, convey blessings, and create meaningful connections between the couple and their guests.",
 "Every hamper becomes a symbol of appreciation, reflecting the warmth, elegance, and grandeur of the wedding itself.For discerning couples, especially those who’re relying on the best wedding planners, bespoke gifting offers an opportunity to craft a memorable guest experience from the very first welcome.",
