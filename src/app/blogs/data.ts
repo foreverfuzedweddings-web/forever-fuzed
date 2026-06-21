@@ -481,7 +481,8 @@ export const blogs: BlogPost[] = [
 
 "4. Gifts That Create Lasting Memories",
 "The most meaningful wedding return gifts continue to be enjoyed long after the wedding day. Practical yet luxurious items encourage repeated use, allowing guests to relive special memories with every interaction. A beautifully curated hamper becomes more than a gift—it becomes a cherished reminder of a remarkable celebration and the hospitality behind it.",
-5. Consistency at Scale for Grand Celebrations",
+
+"5. Consistency at Scale for Grand Celebrations",
 "For destination weddings and large-scale celebrations, consistency is a defining hallmark of premium luxury gift hampers.",
 "Every guest, whether among the first arrivals or the last departures, should receive the same level of quality, presentation, and attention to detail. Professional wedding gifting partners ensure seamless execution, maintaining impeccable standards across every hamper delivered, along with perfect vendor curation and management.",
 
