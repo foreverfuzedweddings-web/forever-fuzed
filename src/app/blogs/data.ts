@@ -428,14 +428,14 @@ export const blogs: BlogPost[] = [
         "So while the professionals handle the logistics, design, and coordination, you can simply focus on celebrating love, making memories, and beginning your forever in the most magical way possible."
      
   ],
-  nextSlug: "​Thoughtful gifting elevates destination weddings",
+  nextSlug: "​Thoughtful-gifting-elevates-destination-weddings",
   nextTitle: "​How Luxury Gift Hampers Set the Tone for Grand NRI Luxury Weddings",
 },
   
   // ── 10 ─────────────────────────────────────────────────────────────────
 
 {
-  slug: "Thoughtful gifting elevates destination weddings",
+  slug: "Thoughtful-gifting-elevates-destination-weddings",
   number: "10",
   title: "​How Luxury Gift Hampers Set the Tone for Grand NRI Luxury Weddings",
   subtitle: "Thoughtful gifting elevates destination weddings",
