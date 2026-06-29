@@ -4,9 +4,6 @@ export const metadata: Metadata = {
   title: "Our Services | Luxury Wedding & Event Planning",
   description:
     "Explore Forever Fuzed's luxury wedding services — wedding styling & design, luxury gifting, event logistics, vendor curation, and entertainment. Serving NRI clients in Canada, USA, and India.",
-  alternates: {
-    canonical: "/services",
-  },
   keywords: [
     "luxury wedding services Canada",
     "wedding styling India NRI",

@@ -442,8 +442,8 @@ export const blogs: BlogPost[] = [
   excerpt:
     "At a destination wedding, every detail contributes to the guest experience—and gifting is no exception. Thoughtfully curated luxury gift hampers for destination weddings are far more than just welcome gifts; they’re a refined expression of hospitality, gratitude, and celebration. For NRI couples hosting weddings in India, bespoke gifting experiences offer a beautiful way to bridge cultures, showcase local charm, and make every guest feel genuinely cherished.",
   accent: "#F2A7B0",
-  heroImage: "/chatgpt_image_jun_21.png",
-  cardImage: "/chatgpt_image_jun_21.png",
+  heroImage: "/ChatGPT Image Jun 21, 2026, 08_54_04 PM.png",
+  cardImage: "/ChatGPT Image Jun 21, 2026, 08_54_04 PM.png",
   category: "Luxury Giftings",
   paragraphs: [
     "At a destination wedding, every detail contributes to the guest experience—and gifting is no exception. Thoughtfully curated luxury gift hampers for destination weddings are far more than just welcome gifts; they’re a refined expression of hospitality, gratitude, and celebration.", 

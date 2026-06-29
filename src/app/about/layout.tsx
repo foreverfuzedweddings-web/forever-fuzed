@@ -4,9 +4,6 @@ export const metadata: Metadata = {
   title: "About Us | Our Story & Vision",
   description:
     "Meet Surbhi Singh, founder of Forever Fuzed — a luxury wedding planner with 10+ years of experience serving NRI clients in Canada, USA, and India. Discover our story.",
-  alternates: {
-    canonical: "/about",
-  },
   keywords: [
     "luxury wedding planner Canada",
     "Indian wedding planner Mississauga",

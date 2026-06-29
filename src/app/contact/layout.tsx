@@ -4,9 +4,6 @@ export const metadata: Metadata = {
   title: "Contact Us | Start Planning Your Wedding",
   description:
     "Get in touch with Forever Fuzed to begin planning your luxury wedding. Based in Mississauga, Ontario, Canada. Serving NRI clients across Canada, USA, and India.",
-  alternates: {
-    canonical: "/contact",
-  },
   keywords: [
     "contact wedding planner Canada",
     "hire wedding planner Mississauga",
