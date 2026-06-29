@@ -21,6 +21,9 @@ export async function generateMetadata({
   return {
     title: service.title,
     description,
+    alternates: {
+      canonical: `/services/${slug}`,
+    },
     keywords: [
       service.title.toLowerCase(),
       "luxury wedding planning Canada",
