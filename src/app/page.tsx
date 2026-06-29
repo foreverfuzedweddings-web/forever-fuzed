@@ -2,9 +2,14 @@ import type { Metadata } from "next";
 import FounderTeaser from "@/components/AboutSection";
 
 export const metadata: Metadata = {
-  title: "Forever Fuzed | Luxury Wedding & Event Planning",
+  title: {
+    absolute: "Forever Fuzed | Luxury Wedding & Event Planning",
+  },
   description:
-    "Forever Fuzed is a luxury wedding and event planning company serving clients across India, Canada, and USA. We specialise in wedding styling, luxury gifting, curated entertainment, seamless event logistics, and premium vendor management.",
+    "Forever Fuzed is a luxury wedding and event planning agency specializing in crafting signature celebrations for NRI couples across Canada, USA, and India.",
+  alternates: {
+    canonical: "/",
+  },
   keywords: [
     "luxury wedding planner",
     "event planning",

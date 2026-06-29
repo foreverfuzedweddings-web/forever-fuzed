@@ -63,8 +63,8 @@ export default function CTABanner() {
       {/* Background image */}
       <div className="absolute inset-0 -z-10">
         <Image
-          src="/DEEP9500.jpg"
-          alt=""
+          src="/DEEP9500.JPG"
+          alt="Luxury wedding gifting details and hampers by Forever Fuzed"
           fill
           className="object-cover object-center"
           quality={90}

@@ -45,12 +45,12 @@ const services = [
 const socials = [
   {
     icon: Instagram,
-    href: "https://www.instagram.com/foreverfuzedweddings?igsh=MWppN2dzZTdtdDhjYg==",
+    href: "https://www.instagram.com/foreverfuzedweddings/",
     label: "Instagram",
   },
   {
     icon: Facebook,
-    href: "https://www.facebook.com/share/17JcFJkwK1/?mibextid=wwXIfr",
+    href: "https://www.facebook.com/share/17JcFJkwK1/",
     label: "Facebook",
   },
   // { icon: Youtube, href: "https://youtube.com", label: "YouTube" },
@@ -148,7 +148,7 @@ export default function Footer() {
             <li className="flex items-start gap-3">
               <Mail className="w-3.5 h-3.5 text-[#C9A96E] mt-0.5 shrink-0" />
               <a
-                href="mailto:hello@foreverfuzed.com"
+                href="mailto:Foreverfusedevents@gmail.com"
                 className="font-lato text-sm text-white/55 hover:text-[#F2A7B0] transition-colors"
               >
                 Foreverfusedevents@gmail.com

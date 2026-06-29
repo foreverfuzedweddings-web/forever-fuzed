@@ -379,14 +379,14 @@ export const blogs: BlogPost[] = [
     "With expertise in NRI wedding planning, personalized hospitality, luxury event design, and seamless coordination, we ensure every celebration feels timeless, elegant, and effortlessly curated from the first consultation to the final farewell.",
     "Because the most memorable weddings are not simply planned—they are thoughtfully designed, beautifully executed, and cherished forever."
   ],
-  nextSlug: "Handpicked-Wedding-Venues-for-Your-Forever-Abroad",
+  nextSlug: "handpicked-wedding-venues-for-your-forever-abroad",
   nextTitle: "Iconic Wedding Venues to Discover With Expert Wedding Event Planners",
 },
 
     // ── 09 ─────────────────────────────────────────────────────────────────
 
 {
-  slug: "Handpicked-Wedding-Venues-for-Your-Forever-Abroad",
+  slug: "handpicked-wedding-venues-for-your-forever-abroad",
   number: "09",
   title: "Iconic Wedding Venues to Discover With Expert Wedding Event Planners",
   subtitle: "Handpicked Wedding Venues for Your Forever Abroad",
@@ -428,16 +428,16 @@ export const blogs: BlogPost[] = [
         "So while the professionals handle the logistics, design, and coordination, you can simply focus on celebrating love, making memories, and beginning your forever in the most magical way possible."
      
   ],
-  nextSlug: "​Thoughtful-gifting-elevates-destination-weddings",
-  nextTitle: "​How Luxury Gift Hampers Set the Tone for Grand NRI Luxury Weddings",
+  nextSlug: "thoughtful-gifting-elevates-destination-weddings",
+  nextTitle: "How Luxury Gift Hampers Set the Tone for Grand NRI Luxury Weddings",
 },
   
   // ── 10 ─────────────────────────────────────────────────────────────────
 
 {
-  slug: "Thoughtful-gifting-elevates-destination-weddings",
+  slug: "thoughtful-gifting-elevates-destination-weddings",
   number: "10",
-  title: "​How Luxury Gift Hampers Set the Tone for Grand NRI Luxury Weddings",
+  title: "How Luxury Gift Hampers Set the Tone for Grand NRI Luxury Weddings",
   subtitle: "Thoughtful gifting elevates destination weddings",
   excerpt:
     "At a destination wedding, every detail contributes to the guest experience—and gifting is no exception. Thoughtfully curated luxury gift hampers for destination weddings are far more than just welcome gifts; they’re a refined expression of hospitality, gratitude, and celebration. For NRI couples hosting weddings in India, bespoke gifting experiences offer a beautiful way to bridge cultures, showcase local charm, and make every guest feel genuinely cherished.",

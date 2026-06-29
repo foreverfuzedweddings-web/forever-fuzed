@@ -19,7 +19,7 @@ export default function Hero() {
       {/* Desktop Image */}
       <Image
         src="/hero-section.JPG"
-        alt="Hero Section"
+        alt="Luxury wedding setup and floral design by Forever Fuzed"
         fill
         priority
         sizes="100vw"
@@ -30,7 +30,7 @@ export default function Hero() {
       {/* Mobile Image */}
       <Image
         src="/hero-section-mobile.png"
-        alt="Hero Section Mobile"
+        alt="Elegant Indian wedding details and staging by Forever Fuzed"
         fill
         priority
         sizes="100vw"

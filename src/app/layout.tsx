@@ -159,8 +159,8 @@ export default function RootLayout({
           {children}
           <Footer />
           <WhatsAppButton />
+          <GoogleAnalytics gaId="G-PRB967J3EQ" />
         </body>
-        <GoogleAnalytics gaId="G-PRB967J3EQ" />
     </html>
   );
 }

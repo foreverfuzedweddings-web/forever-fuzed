@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
+import { usePathname } from "next/navigation";
 import { cn } from "@/lib/utils";
 import { Sheet, SheetContent, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
 import { Menu, ChevronDown } from "lucide-react";
@@ -37,6 +38,9 @@ const services = [
 
 
 export default function Navbar() {
+  const pathname = usePathname();
+  const isLightPage = pathname === "/privacy" || pathname === "/terms";
+
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
   const [servicesOpen, setServicesOpen] = useState(false);
@@ -47,6 +51,8 @@ export default function Navbar() {
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
+  const isNavbarSolid = scrolled || isLightPage;
+
   return (
     <>
       {/* Ribbon */}
@@ -55,7 +61,7 @@ export default function Navbar() {
       <header
         className={cn(
           "fixed top-0.75 left-0 right-0 z-40 transition-all duration-500",
-          scrolled
+          isNavbarSolid
             ? "bg-white/95 backdrop-blur-md shadow-sm py-2"
             : "bg-transparent py-4",
         )}
@@ -66,7 +72,7 @@ export default function Navbar() {
             <div
               className={cn(
                 "relative transition-all duration-500",
-                scrolled ? "w-24 h-12" : "w-28 h-14",
+                isNavbarSolid ? "w-24 h-12" : "w-28 h-14",
               )}
             >
               <Image
@@ -82,10 +88,10 @@ export default function Navbar() {
 
           {/* Desktop Nav — all on right */}
           <div className="hidden lg:flex items-center gap-7">
-            <NavLink href="/" scrolled={scrolled}>
+            <NavLink href="/" scrolled={isNavbarSolid}>
               Home
             </NavLink>
-            <NavLink href="/about" scrolled={scrolled}>
+            <NavLink href="/about" scrolled={isNavbarSolid}>
               About Us
             </NavLink>
 
@@ -94,7 +100,7 @@ export default function Navbar() {
               <button
                 className={cn(
                   "flex items-center gap-1 text-[11.5px] tracking-[0.15em] uppercase font-lato transition-colors duration-300",
-                  scrolled
+                  isNavbarSolid
                     ? "text-[#4a3f3a] hover:text-[#C9A96E]"
                     : "text-white/90 hover:text-white",
                 )}
@@ -130,16 +136,16 @@ export default function Navbar() {
               </div>
             </div>
 
-            <NavLink href="/blogs" scrolled={scrolled}>
+            <NavLink href="/blogs" scrolled={isNavbarSolid}>
               Blogs
             </NavLink>
-            {/* <NavLink href="/media" scrolled={scrolled}>
+            {/* <NavLink href="/media" scrolled={isNavbarSolid}>
               Feature Media
             </NavLink> */}
-            <NavLink href="/gallery" scrolled={scrolled}>
+            <NavLink href="/gallery" scrolled={isNavbarSolid}>
               Gallery
             </NavLink>
-            <NavLink href="/contact" scrolled={scrolled}>
+            <NavLink href="/contact" scrolled={isNavbarSolid}>
               Contact Us
             </NavLink>
           </div>
@@ -150,7 +156,7 @@ export default function Navbar() {
               <button
                 className={cn(
                   "lg:hidden p-2 transition-colors",
-                  scrolled ? "text-[#3a2e2a]" : "text-white",
+                  isNavbarSolid ? "text-[#3a2e2a]" : "text-white",
                 )}
                 aria-label="Open menu"
               >

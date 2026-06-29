@@ -46,7 +46,7 @@ export default function WhyChooseUs() {
       <div className="fixed inset-0 -z-10">
         <Image
           src="/DEEP7475.jpg"
-          alt=""
+          alt="Exquisite Mehndi design details by Forever Fuzed"
           fill
           className="object-cover object-center"
           quality={85}

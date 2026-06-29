@@ -22,7 +22,7 @@ export default function ServicesPage() {
       <section className="relative h-[75vh] min-h-130 flex items-end overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src="/DEEP9441.jpg"
+            src="/DEEP9441.JPG"
             alt="Our Services"
             fill
             className="object-cover object-center"
