@@ -15,6 +15,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/contact`, lastModified: currentDate, priority: 0.9, changeFrequency: "monthly" as const },
     { url: `${base}/privacy`, lastModified: currentDate, priority: 0.3, changeFrequency: "monthly" as const },
     { url: `${base}/terms`, lastModified: currentDate, priority: 0.3, changeFrequency: "monthly" as const },
+    { url: `${base}/nri-weddings/luxury-wedding-in-india`, lastModified: currentDate, priority: 0.8, changeFrequency: "monthly" as const },
   ];
 
   const servicePages = Object.keys(servicesData).map((slug) => ({

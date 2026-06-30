@@ -36,6 +36,14 @@ const services = [
   },
 ];
 
+const nriWeddings = [
+  {
+    emoji: "🕌",
+    label: "NRI's Luxury Wedding In India",
+    href: "/nri-weddings/luxury-wedding-in-india",
+  },
+];
+
 
 export default function Navbar() {
   const pathname = usePathname();
@@ -44,6 +52,7 @@ export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
   const [servicesOpen, setServicesOpen] = useState(false);
+  const [nriOpen, setNriOpen] = useState(false);
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 20);
@@ -132,6 +141,39 @@ export default function Navbar() {
                       View All Services →
                     </Link>
                   </div>
+                </div>
+              </div>
+            </div>
+
+            {/* NRI Weddings dropdown */}
+            <div className="relative group/nri">
+              <button
+                className={cn(
+                  "flex items-center gap-1 text-[11.5px] tracking-[0.15em] uppercase font-lato transition-colors duration-300",
+                  isNavbarSolid
+                    ? "text-[#4a3f3a] hover:text-[#C9A96E]"
+                    : "text-white/90 hover:text-white",
+                )}
+              >
+                NRI Weddings
+                <ChevronDown className="w-3 h-3 transition-transform duration-300 group-hover/nri:rotate-180" />
+              </button>
+
+              <div className="absolute top-full right-0 mt-4 w-80 bg-white/98 backdrop-blur-sm border border-[#e8ddd5] shadow-lg opacity-0 invisible group-hover/nri:opacity-100 group-hover/nri:visible translate-y-2 group-hover/nri:translate-y-0 transition-all duration-300 z-50">
+                <div className="h-0.5 bg-linear-to-r from-[#F2A7B0] via-[#C9A96E] to-[#9CA195]" />
+                <div className="py-3 px-1">
+                  {nriWeddings.map((item) => (
+                    <Link
+                      key={item.href}
+                      href={item.href}
+                      className="flex items-center gap-3 px-4 py-2.5 hover:bg-[#faf8f5] group/item transition-colors duration-200"
+                    >
+                      <span className="text-base w-5 shrink-0">{item.emoji}</span>
+                      <span className="text-[11px] tracking-widest uppercase text-[#4a3f3a] group-hover/item:text-[#C9A96E] transition-colors duration-200 font-lato">
+                        {item.label}
+                      </span>
+                    </Link>
+                  ))}
                 </div>
               </div>
             </div>
@@ -228,6 +270,40 @@ export default function Navbar() {
                             <span className="text-sm w-5">{s.emoji}</span>
                             <span className="text-[10.5px] tracking-widest uppercase text-[#5a4f4a] font-lato">
                               {s.label}
+                            </span>
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
+                  )}
+                </li>
+
+                {/* NRI Weddings accordion */}
+                <li className="border-b border-[#ede6df]">
+                  <button
+                    onClick={() => setNriOpen(!nriOpen)}
+                    className="w-full flex items-center justify-between py-4 text-[11.5px] tracking-[0.18em] uppercase text-[#4a3f3a] font-lato"
+                  >
+                    NRI Weddings
+                    <ChevronDown
+                      className={cn(
+                        "w-3.5 h-3.5 text-[#C9A96E] transition-transform duration-300",
+                        nriOpen && "rotate-180",
+                      )}
+                    />
+                  </button>
+                  {nriOpen && (
+                    <ul className="pb-3 flex flex-col gap-0.5">
+                      {nriWeddings.map((item) => (
+                        <li key={item.href}>
+                          <Link
+                            href={item.href}
+                            onClick={() => setMobileOpen(false)}
+                            className="flex items-center gap-2.5 py-2 px-2 rounded hover:bg-[#f5f0eb] transition-colors"
+                          >
+                            <span className="text-sm w-5">{item.emoji}</span>
+                            <span className="text-[10.5px] tracking-widest uppercase text-[#5a4f4a] font-lato">
+                              {item.label}
                             </span>
                           </Link>
                         </li>

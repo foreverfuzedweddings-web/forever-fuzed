@@ -15,3 +15,7 @@ Forever Fuzed is a premium, luxury wedding and event planning agency specializin
 - **Email**: Foreverfusedevents@gmail.com
 - **Phone**: +1 647 901 9915
 - **Address**: Suite-56, 6733 Mississauga Road, Mississauga, Ontario, L5N 6J5, Canada
+
+## Dedicated Playbooks
+
+- **NRI's Luxury Wedding In India**: A tailored landing page and destination playbook specifically for Canadian NRI couples who want to plan and coordinate signature weddings across India (Rajasthan, Goa, Rishikesh, Kerala) from Canada. Path: `/nri-weddings/luxury-wedding-in-india`
