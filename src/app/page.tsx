@@ -30,6 +30,7 @@ import Hero from "@/components/HeroSection";
 import ServicesOverview from "@/components/ServiceSection";
 import Testimonials from "@/components/Testimonials";
 import WhyChooseUs from "@/components/WhyChooseUse";
+import LeadPopup from "@/components/LeadPopup";
 
 export default function Home() {
   return (
@@ -42,6 +43,7 @@ export default function Home() {
       <Testimonials />
       <Gallery />
       <CTABanner />
+      <LeadPopup />
     </div>
   );
 }

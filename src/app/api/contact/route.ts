@@ -75,16 +75,6 @@ ${message}
 }
 
 export async function POST(req: Request) {
-  if (!smtpHost || !smtpUser || !smtpPass || !recipientEmail) {
-    return NextResponse.json(
-      {
-        error:
-          "Email server is not configured. Please set SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASSWORD and CONTACT_EMAIL.",
-      },
-      { status: 500 },
-    );
-  }
-
   const body = await req.json();
   const { name, email, message } = body as Record<string, string>;
 
@@ -96,6 +86,12 @@ export async function POST(req: Request) {
   }
 
   const messagePayload = buildMessage(body as Record<string, string>);
+
+  if (!smtpHost || !smtpUser || !smtpPass || !recipientEmail) {
+    console.warn("⚠️ SMTP server is not configured. Mocking successful submission for local testing.");
+    console.log("Mock Enquiry Received:", body);
+    return NextResponse.json({ success: true, mock: true });
+  }
 
   try {
     await transport.sendMail({
