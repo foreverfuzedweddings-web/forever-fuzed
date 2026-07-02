@@ -251,9 +251,8 @@ function SectionsBlogLayout({ post }: { post: BlogPostType }) {
                     : "font-cormorant text-[#3a2e2a] font-light text-2xl sm:text-3xl leading-normal"
                 }
                 style={{ fontSize: para.length <= 85 ? "clamp(1.6rem,4vw,2.8rem)" : undefined }}
-              >
-                {para}
-              </motion.p>
+                dangerouslySetInnerHTML={{ __html: para }}
+              />
             ))}
           </div>
 
@@ -309,9 +308,8 @@ function SectionsBlogLayout({ post }: { post: BlogPostType }) {
                         ? "font-cormorant italic text-[#3a2e2a] font-light text-xl sm:text-2xl leading-normal"
                         : "font-lato text-[#4a3f3a] text-sm sm:text-base leading-loose"
                     }
-                  >
-                    {para}
-                  </motion.p>
+                    dangerouslySetInnerHTML={{ __html: para }}
+                  />
                 ))}
               </div>
             </div>
@@ -362,9 +360,10 @@ function ParagraphsBlogLayout({ post }: { post: BlogPostType }) {
             >
               &ldquo;
             </div>
-            <p className="font-cormorant text-[#3a2e2a] font-light text-2xl sm:text-3xl md:text-[34px] leading-normal -mt-6 sm:-mt-8">
-              {firstPara}
-            </p>
+            <p
+              className="font-cormorant text-[#3a2e2a] font-light text-2xl sm:text-3xl md:text-[34px] leading-normal -mt-6 sm:-mt-8"
+              dangerouslySetInnerHTML={{ __html: firstPara }}
+            />
           </motion.div>
 
           <div className="mt-12 h-px w-20" style={{ backgroundColor: post.accent }} />
@@ -391,9 +390,8 @@ function ParagraphsBlogLayout({ post }: { post: BlogPostType }) {
               viewport={{ once: true, amount: 0.25 }}
               transition={{ duration: 0.7, delay: i * 0.06 }}
               className="font-lato text-[#4a3f3a] text-sm sm:text-base leading-loose"
-            >
-              {para}
-            </motion.p>
+              dangerouslySetInnerHTML={{ __html: para }}
+            />
           ))}
         </div>
 
@@ -459,9 +457,8 @@ function ParagraphsBlogLayout({ post }: { post: BlogPostType }) {
               transition={{ duration: 0.8, delay: i * 0.18 }}
               className="font-cormorant italic text-[#3a2e2a] font-light leading-[1.45] mb-5 last:mb-0"
               style={{ fontSize: "clamp(1.4rem,3.5vw,2.4rem)" }}
-            >
-              {para}
-            </motion.p>
+              dangerouslySetInnerHTML={{ __html: para }}
+            />
           ))}
 
           <motion.div

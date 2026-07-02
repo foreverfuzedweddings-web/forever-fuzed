@@ -19,3 +19,5 @@ Forever Fuzed is a premium, luxury wedding and event planning agency specializin
 ## Dedicated Playbooks
 
 - **NRI's Luxury Wedding In India**: A tailored landing page and destination playbook specifically for Canadian NRI couples who want to plan and coordinate signature weddings across India (Rajasthan, Goa, Rishikesh, Kerala) from Canada. Path: `/nri-weddings/luxury-wedding-in-india`
+- **Palace Wedding Planning Guide**: Insider truths and advice on timelines, budgets, venues, and guest dynamics for NRI palace weddings. Path: `/blogs/what-indias-best-nri-wedding-planners-advise`
+- **Destination Wedding Management Guide**: The ultimate checklist and guide to hiring and evaluating wedding management services in India from abroad. Path: `/blogs/insiders-guide-nri-destination-wedding-management`
