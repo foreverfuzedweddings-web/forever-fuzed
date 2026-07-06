@@ -34,6 +34,11 @@ const services = [
     label: "Premium Vendor Curation & Management",
     href: "/services/vendor-curation",
   },
+  {
+    emoji: "🎀",
+    label: "Luxury Wedding Gifts",
+    href: "/luxury-wedding-gifts",
+  },
 ];
 
 const nriWeddings = [
@@ -178,6 +183,9 @@ export default function Navbar() {
               </div>
             </div>
 
+            <NavLink href="/luxury-wedding-gifts" scrolled={isNavbarSolid}>
+              Luxury Gifts
+            </NavLink>
             <NavLink href="/blogs" scrolled={isNavbarSolid}>
               Blogs
             </NavLink>
@@ -312,6 +320,12 @@ export default function Navbar() {
                   )}
                 </li>
 
+                <MobileNavLink
+                  href="/luxury-wedding-gifts"
+                  onClose={() => setMobileOpen(false)}
+                >
+                  Luxury Gifts
+                </MobileNavLink>
                 <MobileNavLink
                   href="/blogs"
                   onClose={() => setMobileOpen(false)}
