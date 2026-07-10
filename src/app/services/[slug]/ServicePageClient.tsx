@@ -7,7 +7,7 @@ import { useEffect, useRef, useState } from "react";
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
 import { useMotionValue, useTransform, useSpring } from "framer-motion";
-import { X, ChevronLeft, ChevronRight } from "lucide-react";
+import { X, ChevronLeft, ChevronRight, ChevronDown } from "lucide-react";
 import { servicesData, type ServiceData } from "./data";
 
 const fadeUp = {
@@ -488,6 +488,11 @@ export default function ServicePageClient({ slug }: { slug: string }) {
         </AnimatePresence>
       </section>
 
+      {/* ── 5.5 FAQs ── */}
+      {service.faqs && service.faqs.length > 0 && (
+        <FAQSection service={service} />
+      )}
+
       {/* ── 6. CTA ── */}
       <ServiceCTA service={service} />
     </main>
@@ -744,6 +749,101 @@ function ServiceCTA({ service }: { service: ServiceData }) {
       <div className="absolute top-8 right-8 w-16 h-16 border-r border-t border-[#C9A96E]/25 pointer-events-none z-20" />
       <div className="absolute bottom-8 left-8 w-16 h-16 border-l border-b border-[#C9A96E]/25 pointer-events-none z-20" />
       <div className="absolute bottom-8 right-8 w-16 h-16 border-r border-b border-[#C9A96E]/25 pointer-events-none z-20" />
+    </section>
+  );
+}
+
+// ── FAQs ───────────────────────────────────────────────────────────────────────
+function FAQSection({ service }: { service: ServiceData }) {
+  const [openIndex, setOpenIndex] = useState<number | null>(null);
+
+  if (!service.faqs) return null;
+
+  return (
+    <section className="bg-white py-24 md:py-32 px-6">
+      <div className="max-w-4xl mx-auto">
+        <motion.div
+          variants={fadeUp}
+          initial="hidden"
+          whileInView="show"
+          viewport={{ once: true }}
+          transition={{ duration: 0.6 }}
+          className="flex flex-col items-center text-center mb-16"
+        >
+          <div className="flex items-center gap-3 mb-6">
+            <div className="h-px w-10" style={{ backgroundColor: service.accent }} />
+            <span
+              className="font-lato text-[10px] tracking-[0.35em] uppercase"
+              style={{ color: service.accent }}
+            >
+              Have Questions?
+            </span>
+            <div className="h-px w-10" style={{ backgroundColor: service.accent }} />
+          </div>
+          <h2 className="font-cormorant text-[#3a2e2a] font-light text-4xl md:text-5xl leading-tight">
+            FA
+            <span className="italic" style={{ color: service.accent }}>
+              Qs
+            </span>
+          </h2>
+        </motion.div>
+
+        <div className="border-t border-[#e8ddd5]">
+          {service.faqs.map((faq, i) => {
+            const isOpen = openIndex === i;
+            return (
+              <motion.div
+                key={i}
+                variants={fadeUp}
+                initial="hidden"
+                whileInView="show"
+                viewport={{ once: true }}
+                transition={{ duration: 0.5, delay: i * 0.1 }}
+                className="border-b border-[#e8ddd5] overflow-hidden"
+              >
+                <button
+                  onClick={() => setOpenIndex(isOpen ? null : i)}
+                  className="w-full flex items-center justify-between py-6 md:py-8 text-left transition-colors duration-300 group hover:bg-[#faf8f5]/50"
+                >
+                  <span className="font-cormorant text-[#3a2e2a] text-xl md:text-2xl font-light pr-8">
+                    {faq.question}
+                  </span>
+                  <div
+                    className="w-10 h-10 rounded-full border border-[#e8ddd5] flex items-center justify-center shrink-0 transition-all duration-300 group-hover:border-transparent"
+                    style={{
+                      backgroundColor: isOpen ? `${service.accent}15` : "transparent",
+                    }}
+                  >
+                    <ChevronDown
+                      className="w-5 h-5 transition-transform duration-500 ease-in-out"
+                      style={{
+                        transform: isOpen ? "rotate(180deg)" : "rotate(0deg)",
+                        color: isOpen ? service.accent : "#9a8f8a",
+                      }}
+                    />
+                  </div>
+                </button>
+                <AnimatePresence initial={false}>
+                  {isOpen && (
+                    <motion.div
+                      initial={{ height: 0, opacity: 0 }}
+                      animate={{ height: "auto", opacity: 1 }}
+                      exit={{ height: 0, opacity: 0 }}
+                      transition={{ duration: 0.4, ease: [0.04, 0.62, 0.23, 0.98] }}
+                    >
+                      <div className="pb-8 pr-12 md:pr-24">
+                        <p className="font-lato text-[#6b5f5a] text-sm md:text-base leading-relaxed">
+                          {faq.answer}
+                        </p>
+                      </div>
+                    </motion.div>
+                  )}
+                </AnimatePresence>
+              </motion.div>
+            );
+          })}
+        </div>
+      </div>
     </section>
   );
 }

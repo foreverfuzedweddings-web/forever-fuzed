@@ -31,6 +31,7 @@ import ServicesOverview from "@/components/ServiceSection";
 import Testimonials from "@/components/Testimonials";
 import WhyChooseUs from "@/components/WhyChooseUse";
 import LeadPopup from "@/components/LeadPopup";
+import HomeFAQs from "@/components/HomeFAQs";
 
 export default function Home() {
   return (
@@ -42,6 +43,7 @@ export default function Home() {
       <ServicesOverview />
       <Testimonials />
       <Gallery />
+      <HomeFAQs />
       <CTABanner />
       <LeadPopup />
     </div>

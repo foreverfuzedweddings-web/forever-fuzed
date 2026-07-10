@@ -18,6 +18,7 @@ export type ServiceData = {
   ctaBgImage: string;
   nextSlug: string;
   nextTitle: string;
+  faqs?: { question: string; answer: string }[];
 };
 
 export const servicesData: Record<string, ServiceData> = {
@@ -69,6 +70,48 @@ export const servicesData: Record<string, ServiceData> = {
     ctaBgImage: "/009A2081.jpg",
     nextSlug: "luxury-gifting",
     nextTitle: "Luxury Gifting & Wedding Hampers",
+    faqs: [
+      {
+        question: "1. What is included in wedding styling and design services?",
+        answer: "Our wedding styling services include concept creation, mood boards, color palette planning, floral design, stage décor, tablescapes, lighting concepts, entrance styling, signage, and complete venue aesthetics. Every detail is customized to reflect your story and wedding vision.",
+      },
+      {
+        question: "2. How much do wedding styling services cost in India?",
+        answer: "The cost depends on your venue, guest count, décor requirements, floral installations, and level of customization. Luxury wedding styling is tailored to each celebration, and we provide customized quotations based on your vision and budget.",
+      },
+      {
+        question: "3. What is the difference between a wedding planner and a wedding stylist?",
+        answer: "A wedding planner manages logistics, timelines, vendors, and event coordination, while a wedding stylist focuses on the visual design of your celebration, including décor, color palettes, floral arrangements, tablescapes, lighting, and overall ambiance.",
+      },
+      {
+        question: "4. Do you provide wedding styling for destination weddings?",
+        answer: "Yes. We specialize in luxury destination wedding styling across India, creating cohesive designs that complement your venue, culture, and personal style while ensuring every celebration looks elegant and memorable.",
+      },
+      {
+        question: "5. Can you customize the wedding décor to match our theme?",
+        answer: "Absolutely. Every wedding is designed from scratch with personalized color palettes, floral concepts, décor styling, furniture selection, and decorative details that reflect your personality and wedding theme.",
+      },
+      {
+        question: "6. How far in advance should we book wedding styling services?",
+        answer: "We recommend booking your wedding styling services at least 6–12 months before your wedding date. Early planning provides more flexibility for venue design, décor concepts, floral arrangements, and premium vendor availability.",
+      },
+      {
+        question: "7. Do you work with our existing wedding vendors?",
+        answer: "Yes. We collaborate with your existing decorators, florists, production teams, and other wedding vendors to ensure every design element aligns perfectly and is executed seamlessly.",
+      },
+      {
+        question: "8. Which destinations do you provide wedding styling services for?",
+        answer: "We offer luxury wedding styling services across India, including Udaipur, Jaipur, Jodhpur, Goa, Kerala, Delhi, and other destination wedding locations. We also work with NRI couples planning weddings in India.",
+      },
+      {
+        question: "9. Do you offer complete wedding styling and wedding management services?",
+        answer: "Yes. Along with luxury wedding styling, we also provide complete wedding management services, including guest logistics, hospitality management, vendor coordination, entertainment planning, and seamless event execution.",
+      },
+      {
+        question: "10. Why choose Forever Fuzed Weddings for wedding styling?",
+        answer: "Forever Fuzed Weddings creates elegant, personalized wedding styling experiences that combine creative design with flawless execution. From luxury floral installations and custom décor concepts to premium vendor coordination and destination wedding styling, every celebration is thoughtfully crafted to create unforgettable memories.",
+      },
+    ],
   },
 
   "luxury-gifting": {
