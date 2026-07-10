@@ -966,7 +966,71 @@ export const blogs: BlogPost[] = [
       ]
     }
   ],
+  nextSlug: "small-intimate-wedding-vs-grand-celebration-nri-india-2026",
+  nextTitle: "Small Intimate Wedding vs. Grand Celebration: What\u2019s Trending for NRI Wedding Planners in India 2026?",
+},
+
+  // ── 16 ─────────────────────────────────────────────────────────────────
+{
+  slug: "small-intimate-wedding-vs-grand-celebration-nri-india-2026",
+  number: "16",
+  title: "Small Intimate Wedding vs. Grand Celebration: What\u2019s Trending for NRI Wedding Planners in India 2026?",
+  subtitle: "Intimate or grand? Here\u2019s what\u2019s actually trending for NRI couples planning a wedding in India in 2026.",
+  excerpt: "2026\u2019s biggest wedding trend isn\u2019t a color palette or a venue type. It\u2019s a clearer mindset shift from intimate to grand celebrations for NRI wedding planners in India and for couples, too.",
+  accent: "#9CA195",
+  heroImage: "/intimate-wedding-sunset-hero.png",
+  cardImage: "/grand-wedding-palace-card.png",
+  category: "NRI Wedding Trends",
+  paragraphs: [],
+  sections: [
+    {
+      // Intro — no heading
+      paragraphs: [
+        "2026\u2019s biggest wedding trend isn\u2019t a color palette or a venue type. It\u2019s a clearer mindset shift from intimate to grand celebrations for <strong>NRI wedding planners in India</strong> and for couples, too.",
+        "Somewhere between the family group chat debating the guest list and your own quiet daydream of a sunset mandap with twenty people you love, one question keeps coming back: should we go intimate or should we go grand?",
+        "If you\u2019re an NRI couple planning a wedding in India from Toronto, New York, or anywhere in between, this isn\u2019t just a logistics question. It shapes how your story gets told and who\u2019s actually there to witness it. As an <strong>NRI wedding planner in India</strong>, we at <a href=\"/\" class=\"text-[#9CA195] hover:text-[#8a9084] underline font-bold transition-colors duration-200\">Forever Fuzed Weddings</a> get asked this in almost every first consultation \u2014 so here\u2019s what\u2019s genuinely trending in 2026, backed by what we\u2019re seeing on the ground, not just what looks good on a mood board."
+      ]
+    },
+    {
+      heading: "NRI Wedding Planner Services: The Real Shift Happening in 2026",
+      paragraphs: [
+        "The old \u201cbigger is always better\u201d rulebook is being rewritten. Across Indian destination weddings this year, most NRI couples using top-notch <strong>destination wedding planner</strong> services are moving toward what industry watchers are calling quiet luxury \u2014 celebrations built on intention, comfort, and personal meaning rather than scale for its own sake. It\u2019s less about impressing a room full of people and more about making sure every guest actually feels something.",
+        "This doesn\u2019t mean grand weddings are disappearing. It means the definition of \u201cgrand\u201d has changed. A 2026 grand NRI wedding is less about sheer guest count and more about immersive, story-driven design \u2014 decor that reflects how the couple met, mandaps that feel like a curated moment rather than a marigold canopy, personalised gifting for guests, and entertainment that\u2019s personal instead of generic.",
+        "So the real trend isn\u2019t intimate versus grand. It\u2019s <strong>intentional versus performative</strong> \u2014 and where you land on that spectrum depends on what your family and your relationship actually need."
+      ]
+    },
+    {
+      heading: "Why More NRI Couples Are Choosing Intimate in 2026",
+      paragraphs: [
+        "<strong>1. Boutique and heritage venues are having a moment.</strong><br/>Rather than sprawling banquet-style venues, couples are gravitating toward boutique resorts and heritage properties that naturally cap guest numbers \u2014 and naturally create better interactions. One reason is that they choose the <strong>top NRI wedding planners in India</strong>.<br/>It\u2019s less about restricting scale and more about cutting the logistical chaos that comes with very large gatherings.",
+        "<strong>2. Hill stations are joining Rajasthan and Goa as top picks.</strong><br/>While Udaipur\u2019s palaces and Goa\u2019s beaches remain NRI favorites, popular NRI wedding destinations like Mussoorie, Dehradun, and Rishikesh are trending fast for couples who want a quieter, nature-led backdrop for a smaller wedding.",
+        "<strong>3. Distance makes \u201cinvite everyone\u201d complicated.</strong><br/>When your guest list spans three continents, flights, visas, and time zones, a smaller, well-hosted celebration often makes more sense than stretching thin to accommodate a guest list built on obligation rather than closeness.<br/>At <a href=\"/\" class=\"text-[#9CA195] hover:text-[#8a9084] underline font-bold transition-colors duration-200\">Forever Fuzed Weddings</a>, we bring the <strong>best wedding planners for destination weddings</strong>, ensuring exclusive guest experiences with seamless <a href=\"/services/event-logistics\" class=\"text-[#9CA195] hover:text-[#8a9084] underline font-bold transition-colors duration-200\">logistics and guest management</a>.",
+        "<strong>4. Decor is becoming personal, not decorative.</strong><br/>2026\u2019s biggest wedding design trend is storytelling \u2014 mandaps and welcome boards built around how a couple met, handwritten dinner notes, and illustrations of shared memories.<br/>This kind of personalization by <strong>NRI wedding planners in India</strong>, especially with <a href=\"/services/wedding-styling\" class=\"text-[#9CA195] hover:text-[#8a9084] underline font-bold transition-colors duration-200\">wedding styling and designs</a>, is naturally easier \u2014 and more affordable \u2014 to execute beautifully at a smaller scale.",
+        "<strong>5. Gifting is getting more thoughtful, not more expensive.</strong><br/>Families are moving away from generic cash envelopes and silverware toward gifts with real meaning \u2014 curated <a href=\"/luxury-wedding-gifts\" class=\"text-[#9CA195] hover:text-[#8a9084] underline font-bold transition-colors duration-200\">luxury wedding hampers</a> reflecting the couple\u2019s lifestyle, favorite scents, or shared interests.<br/>It\u2019s a small shift that says a lot about where 2026 NRI destination weddings are headed: quality of thought over quantity of guests.",
+        "<div class=\"my-10 p-6 sm:p-8 rounded-lg border border-[#e8ddd5] bg-[#FAF8F5] flex flex-col md:flex-row md:items-center justify-between gap-6 relative overflow-hidden transition-all duration-300 hover:shadow-md hover:border-[#9CA195] text-left\"><div class=\"absolute -right-10 -bottom-10 w-40 h-40 rounded-full bg-[#9CA195] opacity-5 blur-2xl pointer-events-none\"></div><div class=\"space-y-2 max-w-xl relative z-10\"><span class=\"font-lato text-[9px] tracking-[0.3em] text-[#9CA195] uppercase font-bold\">Luxury Gifting</span><h4 class=\"font-cormorant text-xl sm:text-2xl text-[#3a2e2a] font-normal leading-snug\">Turn a Gesture Into a Memory \u2014 Explore Luxury Wedding Gifting for Guests.</h4></div><a href=\"/services/luxury-gifting\" class=\"relative overflow-hidden group shrink-0 inline-block border border-[#9CA195] px-8 py-3 text-center text-xs font-lato tracking-[0.2em] text-[#9CA195] uppercase transition-all duration-300 hover:text-white z-10\"><span class=\"absolute inset-0 translate-y-full bg-[#9CA195] group-hover:translate-y-0 transition-transform duration-300\"></span><span class=\"relative z-10\">Explore Gifting</span></a></div>"
+      ]
+    },
+    {
+      heading: "Why Do Grand Celebrations Still Have Their Place?",
+      paragraphs: [
+        "For many NRI families, a <strong>luxury destination wedding in India</strong> is the one moment when extended family, childhood friends, and community all convene in the same place \u2014 often for the first time in years. That reunion energy is something a twenty-guest wedding simply isn\u2019t built to hold, and there\u2019s nothing wrong with wanting it.",
+        "What\u2019s changed is how grand weddings are being designed. As per India\u2019s No. 1 luxury <strong>destination wedding planners</strong>, i.e <a href=\"/\" class=\"text-[#9CA195] hover:text-[#8a9084] underline font-bold transition-colors duration-200\">Forever Fuzed Weddings</a>, 2026\u2019s grand celebrations favor \u201cminimalist luxury\u201d \u2014 refined palettes like sage, almond, and dusty pink instead of visually loud, saturated ones, and decor that lets the architecture, the light, and the flowers breathe rather than overwhelming them.",
+        "Multi-day functions are still happening, but each one is increasingly designed as its own chapter in the couple\u2019s story, rather than a repeat of the same setup with a different outfit.",
+        "For the couples relying on <strong>NRI wedding planners in India</strong> with a genuine desire to celebrate with everyone, a grand destination wedding in 2026 isn\u2019t outdated \u2014 it\u2019s simply being planned with more intention than it used to be.",
+        "<div class=\"my-10 p-6 sm:p-8 rounded-lg border border-[#e8ddd5] bg-[#FAF8F5] flex flex-col md:flex-row md:items-center justify-between gap-6 relative overflow-hidden transition-all duration-300 hover:shadow-md hover:border-[#9CA195] text-left\"><div class=\"absolute -right-10 -bottom-10 w-40 h-40 rounded-full bg-[#9CA195] opacity-5 blur-2xl pointer-events-none\"></div><div class=\"space-y-2 max-w-xl relative z-10\"><span class=\"font-lato text-[9px] tracking-[0.3em] text-[#9CA195] uppercase font-bold\">NRI Wedding Planning</span><h4 class=\"font-cormorant text-xl sm:text-2xl text-[#3a2e2a] font-normal leading-snug\">Bringing Your Wedding to Life, Wherever You Are. Get the Best NRI Wedding Planners in India.</h4></div><a href=\"/contact\" class=\"relative overflow-hidden group shrink-0 inline-block border border-[#9CA195] px-8 py-3 text-center text-xs font-lato tracking-[0.2em] text-[#9CA195] uppercase transition-all duration-300 hover:text-white z-10\"><span class=\"absolute inset-0 translate-y-full bg-[#9CA195] group-hover:translate-y-0 transition-transform duration-300\"></span><span class=\"relative z-10\">Get In Touch</span></a></div>"
+      ]
+    },
+    {
+      heading: "The One Thing That Doesn\u2019t Change \u2014 Forever Fuzed Weddings, The Best NRI Destination Wedding Planner in India",
+      paragraphs: [
+        "Whether you\u2019re picturing twenty guests at golden hour on a Goa beach or four hundred guests dancing under a Rajasthan sky, the goal is the same: your <strong>luxury destination wedding planner</strong> will ensure a celebration that feels unmistakably like you, not a copy-paste version of someone else\u2019s wedding.",
+        "That\u2019s the philosophy behind every wedding we build. We at <a href=\"/\" class=\"text-[#9CA195] hover:text-[#8a9084] underline font-bold transition-colors duration-200\">Forever Fuzed Weddings</a> don\u2019t start with \u201chow big should this be?\u201d We start with \u201cwhat does this couple want to feel on their wedding day?\u201d \u2014 and then manage every detail across time zones so you don\u2019t have to.",
+        "If you\u2019re an NRI couple weighing intimate against grand, you don\u2019t have to figure it out alone. As dedicated <strong>NRI wedding planners in India</strong>, we\u2019ve planned both \u2014 and everything in between \u2014 for couples across Canada, the USA, and India.",
+        "<a href=\"/contact\" class=\"text-[#9CA195] hover:text-[#8a9084] underline font-bold transition-colors duration-200\">Book a Consultation</a> and let\u2019s start designing a celebration that\u2019s unmistakably yours."
+      ]
+    }
+  ],
   nextSlug: "surbhi-and-raj-royal-wedding-jaipur",
-  nextTitle: "Surbhi & Raj’s Royal Wedding",
+  nextTitle: "Surbhi & Raj\u2019s Royal Wedding",
 },
  ];

@@ -1,0 +1,32 @@
+# SEO Issues Fix checklist
+
+- [x] Component 1: Fix Duplicate Titles & Meta Descriptions
+  - [x] Update `src/app/page.tsx`
+  - [x] Update `src/app/gallery/page.tsx`
+- [x] Component 2: Fix Trailing Slash Duplication (Netlify)
+  - [x] Update `next.config.ts`
+- [x] Component 3: Add Canonical URLs & OG/Twitter Meta to All Pages
+  - [x] Update `src/app/page.tsx`
+  - [x] Update `src/app/blogs/page.tsx`
+  - [x] Update `src/app/blogs/[slug]/page.tsx`
+  - [x] Update `src/app/gallery/page.tsx`
+- [x] Component 4: Fix Footer Links & Create Missing Pages
+  - [x] Update `src/components/Footer.tsx` (email and links)
+  - [x] Create `src/app/privacy/page.tsx`
+  - [x] Create `src/app/terms/page.tsx`
+- [x] Component 5: Fix Blog Data Issues
+  - [x] Fix zero-width chars and casing in `src/app/blogs/data.ts`
+- [x] Component 6: Fix Image Case Mismatches
+  - [x] Update `src/components/Cta.tsx`
+  - [x] Update `src/app/services/[slug]/data.ts`
+- [x] Component 7: Fix Google Analytics Placement
+  - [x] Update `src/app/layout.tsx`
+- [x] Component 8: Fix HeroSection Alt Text
+  - [x] Update `src/components/HeroSection.tsx`
+  - [x] Update `src/components/WhyChooseUse.tsx`
+- [x] Component 9: Add Sitemap lastModified Dates & New Pages
+  - [x] Update `src/app/sitemap.ts`
+- [x] Component 10: Fix External Share Links
+  - [x] Verified dynamic blog footer sharing is clean
+- [x] Build & Verification
+  - [x] Run `npm run build` to verify
