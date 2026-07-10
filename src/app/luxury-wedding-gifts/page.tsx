@@ -40,7 +40,7 @@ const giftCategories = [
     title: "Welcome Hampers",
     description:
       "Curated arrival experiences for your guests — artisan chocolates, scented candles, local delicacies, and personalized welcome notes wrapped in premium packaging.",
-    image: "/luxury-gifts/welcome-hamper.png",
+    image: "/luxury-gifts/v2/IMG_6517.JPG.jpeg",
     accent: gold,
   },
   {
@@ -48,7 +48,7 @@ const giftCategories = [
     title: "Bridesmaid Gifts",
     description:
       "Thoughtfully assembled keepsake boxes for your closest friends — silk robes, pearl accessories, beauty essentials, and heartfelt tokens of gratitude.",
-    image: "/luxury-gifts/bridesmaid-gifts.png",
+    image: "/luxury-gifts/v2/IMG_6527.JPG.jpeg",
     accent: rose,
   },
   {
@@ -56,7 +56,7 @@ const giftCategories = [
     title: "Return Gifts",
     description:
       "Elegant mementos that leave a lasting impression — premium dry-fruit boxes, handcrafted keepsakes, and luxurious favours tailored to your wedding theme.",
-    image: "/luxury-gifts/return-gifts.png",
+    image: "/luxury-gifts/v2/IMG_6542.JPG.jpeg",
     accent: sage,
   },
   {
@@ -64,7 +64,7 @@ const giftCategories = [
     title: "Personalized Keepsakes",
     description:
       "Custom-engraved treasures that carry your story — monogrammed journals, crystal mementos, bespoke perfume bottles, and heirloom-quality gifts.",
-    image: "/luxury-gifts/personalized-keepsakes.png",
+    image: "/luxury-gifts/v2/IMG_6638.JPG.jpeg",
     accent: gold,
   },
   {
@@ -72,7 +72,7 @@ const giftCategories = [
     title: "Luxury Trousseau",
     description:
       "Exquisite trousseau presentations in heritage-style trunks — silk wrapping, jewelry organization, and ceremonial arrangement that honours tradition.",
-    image: "/luxury-gifts/luxury-trousseau.png",
+    image: "/luxury-gifts/v2/IMG_6642.JPG.jpeg",
     accent: rose,
   },
   {
@@ -80,7 +80,7 @@ const giftCategories = [
     title: "Celebration Boxes",
     description:
       "Festive luxury boxes for Sangeet, Mehndi, and reception events — themed packaging with curated treats, mini cocktails, and celebration essentials.",
-    image: "/luxury-gifts/celebration-boxes.png",
+    image: "/luxury-gifts/v2/IMG_6531.JPG.jpeg",
     accent: sage,
   },
 ];
@@ -91,7 +91,7 @@ const featuredProducts = [
     subtitle: "Signature Collection",
     description:
       "Our flagship gifting experience — hand-selected gourmet delicacies, artisan candles, premium teas, and fresh florals, presented in a bespoke keepsake box with silk ribbon finishing.",
-    image: "/luxury-gifts/featured-gift-set.png",
+    image: "/luxury-gifts/v2/red_hamper.png",
     accent: gold,
   },
   {
@@ -99,7 +99,7 @@ const featuredProducts = [
     subtitle: "Heritage Edition",
     description:
       "A timeless keepsake featuring hand-engraved wooden boxes, crystal perfume bottles, leather-bound journals, and custom monogrammed accessories — crafted for generations.",
-    image: "/luxury-gifts/custom-monogram.png",
+    image: "/luxury-gifts/v2/brown_hamper.png",
     accent: rose,
   },
   {
@@ -107,7 +107,7 @@ const featuredProducts = [
     subtitle: "Luxury Trousseau",
     description:
       "A statement piece for the modern bride — a vintage-inspired trunk with silk fabrics, curated jewelry boxes, artisan beauty essentials, and ceremonial items presented with royal elegance.",
-    image: "/luxury-gifts/luxury-trousseau.png",
+    image: "/luxury-gifts/v2/IMG_6544.JPG.jpeg",
     accent: sage,
   },
 ];
@@ -178,6 +178,7 @@ const testimonials = [
     event: "Destination Wedding · Udaipur",
     initials: "MP",
     accent: rose,
+    image: "/luxury-gifts/v2/IMG_6518.JPG.jpeg",
   },
   {
     quote:
@@ -186,6 +187,7 @@ const testimonials = [
     event: "Royal Wedding · Jaipur",
     initials: "AM",
     accent: gold,
+    image: "/luxury-gifts/v2/IMG_6519.JPG.jpeg",
   },
   {
     quote:
@@ -194,6 +196,7 @@ const testimonials = [
     event: "Beachside Wedding · Goa",
     initials: "NK",
     accent: sage,
+    image: "/luxury-gifts/v2/IMG_6530.JPG.jpeg",
   },
 ];
 
@@ -216,7 +219,7 @@ export default function LuxuryWeddingGiftsPage() {
       <section className="relative h-[80vh] md:h-screen min-h-130 md:min-h-170 flex items-center overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src="/luxury-gifts/hero.png"
+            src="/luxury-gifts/v2/IMG_6543.JPG.jpeg"
             alt="Luxury wedding gift collection by Forever Fuzed — premium hampers and bespoke keepsakes"
             fill
             priority
@@ -816,54 +819,31 @@ export default function LuxuryWeddingGiftsPage() {
               transition={{ duration: 0.5, ease: "easeOut" }}
               className="grid grid-cols-1 lg:grid-cols-[1fr_2fr] border border-[#e8ddd5]"
             >
-              {/* Left panel */}
-              <div
-                className="relative flex flex-col justify-between p-10 md:p-12 overflow-hidden"
-                style={{ backgroundColor: `${current.accent}08` }}
-              >
-                {/* Big quote */}
-                <span
-                  className="font-cormorant text-[140px] leading-none select-none absolute -top-4 -left-2 opacity-8"
-                  style={{ color: current.accent }}
-                >
-                  {'"'}
-                </span>
+              {/* Left panel (Image) */}
+              <div className="relative h-[300px] lg:h-auto overflow-hidden">
+                <Image 
+                  src={current.image || "/luxury-gifts/v2/red_hamper.png"}
+                  alt={current.name}
+                  fill
+                  className="object-cover transition-transform duration-700 ease-in-out hover:scale-105"
+                />
+                
+                {/* Overlay for subtle text contrast if needed */}
+                <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent pointer-events-none" />
 
-                {/* Initials */}
-                <div
-                  className="relative z-10 w-16 h-16 rounded-full flex items-center justify-center border"
-                  style={{
-                    borderColor: current.accent,
-                    backgroundColor: `${current.accent}15`,
-                  }}
-                >
-                  <span
-                    className="font-cormorant text-xl font-light"
-                    style={{ color: current.accent }}
-                  >
-                    {current.initials}
-                  </span>
-                </div>
-
-                {/* Name + event */}
-                <div className="relative z-10 mt-auto pt-12">
-                  <p className="font-cormorant text-[#3a2e2a] text-xl font-light leading-snug">
-                    {current.name}
-                  </p>
-                  <p
-                    className="font-lato text-[10px] tracking-[0.15em] uppercase mt-1.5"
-                    style={{ color: `${current.accent}` }}
-                  >
-                    {current.event}
-                  </p>
+                <div className="absolute bottom-6 left-6 right-6 z-10 flex items-center justify-between">
+                  <div>
+                    <p className="font-cormorant text-white text-xl md:text-2xl font-light leading-snug drop-shadow-md">
+                      {current.name}
+                    </p>
+                    <p className="font-lato text-white/90 text-[10px] tracking-[0.15em] uppercase mt-1 drop-shadow-md">
+                      {current.event}
+                    </p>
+                  </div>
                   {/* Stars */}
-                  <div className="flex items-center gap-0.5 mt-4">
+                  <div className="flex items-center gap-0.5">
                     {[...Array(5)].map((_, i) => (
-                      <span
-                        key={i}
-                        style={{ color: current.accent }}
-                        className="text-sm"
-                      >
+                      <span key={i} className="text-[#FFD700] text-sm drop-shadow-md">
                         ★
                       </span>
                     ))}
