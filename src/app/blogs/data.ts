@@ -197,34 +197,74 @@ export const blogs: BlogPost[] = [
       "It is about how effortlessly it unfolds.",
       "And that effortlessness is never accidental \u2014 it is designed.",
     ],
-    nextSlug: "designing-personal-not-generic-weddings",
-    nextTitle: "How We Design Weddings That Feel Personal",
+    nextSlug: "from-your-love-story-to-a-song-forever-fuzed-signature-experience",
+    nextTitle: "From Your Love Story to a Song: The Forever Fuzed Signature Experience",
   },
 
-  // ── 05 ─────────────────────────────────────────────────────────────────
+  // ── 05 · FROM YOUR LOVE STORY TO A SONG ─────────────────────────────────
   {
-    slug: "designing-personal-not-generic-weddings",
+    slug: "from-your-love-story-to-a-song-forever-fuzed-signature-experience",
     number: "05",
-    title: "How We Design Weddings That Feel",
-    subtitle: "Personal, Not Generic",
+    title: "From Your Love Story to a Song",
+    subtitle: "The Forever Fuzed Signature Experience",
     excerpt:
-      "No two love stories are the same \u2014 and no two weddings should be either. True luxury lies in originality, not repetition.",
-    accent: "#F2A7B0",
+      "Every couple has a story. At most weddings, that story lives in your hearts and in the memories of the people closest to you. At a Forever Fuzed wedding, it lives in a song.",
+    accent: "#C9A96E",
     heroImage: "/DEEP9490.JPG",
     cardImage: "/DEEP8535.JPG",
-    category: "Our Approach",
-    paragraphs: [
-      "No two love stories are the same \u2014 and at Forever Fuzed, no two weddings should be either.",
-      "In an era where inspiration is everywhere, it is easy to replicate trends. But true luxury lies in originality.",
-      "Our design process begins with you.",
-      "We take the time to understand your personalities, your journey, your preferences, and even the smallest details that define your relationship. This allows us to create a celebration that feels deeply personal rather than visually repetitive.",
-      "Instead of asking, \u201cWhat\u2019s trending?\u201d, we ask, \u201cWhat represents you?\u201d",
-      "From custom-designed experiences like storytelling mehendi and personalized performances, to curated d\u00e9cor concepts and guest interactions, every element is tailored to reflect your identity.",
-      "We don\u2019t believe in templates.",
-      "We believe in transformation.",
-      "The result is a wedding that doesn\u2019t just look beautiful \u2014 it feels authentic.",
-      "Because when a wedding is truly personal, it doesn\u2019t just impress.",
-      "It resonates.",
+    category: "Forever Fuzed Signature",
+    paragraphs: [],
+    sections: [
+      {
+        // Intro — no heading
+        paragraphs: [
+          "Every couple has a story. The way you met. The moment you knew. The distance you crossed to be together. The inside jokes, the shared silences, the late-night conversations that shaped who you are as a couple.",
+          "At most weddings, that story lives in your hearts and in the memories of the people closest to you. At a Forever Fuzed wedding, it lives in a song.",
+        ],
+      },
+      {
+        heading: "What Is the Signature Song Experience?",
+        paragraphs: [
+          "As part of our Platinum and Diamond packages, we offer something that very few wedding planners in the world provide: a fully original, professionally produced song created exclusively from your love story.",
+          "We begin with a conversation. We want to know how you met, what draws you to each other, the moments that define your relationship, and the emotions you want to carry through your wedding. From that conversation, we craft lyrics that are entirely, unmistakably yours.",
+          "The song is then recorded by professional singers, produced by experienced music composers, and mixed to the standard of a commercial release. It is not a generic track with your names inserted. It is a real, beautiful, original composition \u2014 born from your story.",
+        ],
+      },
+      {
+        heading: "Where Your Song Lives",
+        paragraphs: [
+          "Your signature song is not just a keepsake \u2014 it becomes a living part of your wedding. It is integrated into your wedding film, played during your couple entry, woven into your Sangeet, and used across your reception. It becomes the soundtrack of your celebration.",
+          "And beyond your wedding day, it lives on. Your song is released on Spotify, Apple Music, YouTube, and other major platforms \u2014 so that every time you hear it, years from now, it takes you straight back to that day.",
+        ],
+      },
+      {
+        heading: "The Cinematic Music Video",
+        paragraphs: [
+          "For our Diamond couples, we go even further. We create a Bollywood-style cinematic music video \u2014 a short film that tells your love story visually, set to your original song. Concept, styling, direction, and production are all handled by our team, resulting in a piece of film that is as personal as it is cinematic.",
+          "This is not documentation. This is storytelling. And it is the kind of storytelling that most couples do not even know is possible.",
+        ],
+      },
+      {
+        heading: "Why This Matters",
+        paragraphs: [
+          "NRI couples, more than most, carry the weight of two worlds. You have built a life abroad while staying connected to your roots. Your love story spans continents, cultures, and contexts that are entirely unique to you. A generic wedding film or a standard playlist cannot capture that.",
+          "A song \u2014 your song \u2014 can.",
+          "\u201cWe don\u2019t just document your wedding. We compose it, film it, and give you something that lasts far longer than the celebration itself.\u201d",
+        ],
+      },
+      {
+        heading: "This Is What It Means to Be a Forever Fuzed Couple",
+        paragraphs: [
+          "This is what it means to be a Forever Fuzed couple. It means your wedding is not just planned \u2014 it is crafted. Every detail is intentional. Every experience is personal. And at the heart of it all is a story that is entirely your own.",
+          "We take on only five weddings a year. Not because we cannot do more, but because this level of attention, creativity, and care cannot be scaled. Each couple deserves our full presence \u2014 and that is exactly what they receive.",
+          "Ready to turn your love story into something that lasts forever? <a href=\"/contact\" class=\"text-[#C9A96E] hover:text-[#b8975e] underline font-bold transition-colors duration-200\">Reach out to us</a> through our website. We would love to hear your story.",
+        ],
+      },
+      {
+        paragraphs: [
+          "<div class=\"my-10 p-6 sm:p-8 rounded-lg border border-[#e8ddd5] bg-[#FAF8F5] flex flex-col md:flex-row md:items-center justify-between gap-6 relative overflow-hidden transition-all duration-300 hover:shadow-md hover:border-[#C9A96E] text-left\"><div class=\"absolute -right-10 -bottom-10 w-40 h-40 rounded-full bg-[#C9A96E] opacity-5 blur-2xl pointer-events-none\"></div><div class=\"space-y-2 max-w-xl relative z-10\"><span class=\"font-lato text-[9px] tracking-[0.3em] text-[#C9A96E] uppercase font-bold\">Forever Fuzed</span><h4 class=\"font-cormorant text-xl sm:text-2xl text-[#3a2e2a] font-normal leading-snug\">The bridge between your vision and your celebration. Only 5 weddings a year. 100% attention. 100% you.</h4></div><a href=\"/contact\" class=\"relative overflow-hidden group shrink-0 inline-block border border-[#C9A96E] px-8 py-3 text-center text-xs font-lato tracking-[0.2em] text-[#C9A96E] uppercase transition-all duration-300 hover:text-white z-10\"><span class=\"absolute inset-0 translate-y-full bg-[#C9A96E] group-hover:translate-y-0 transition-transform duration-300\"></span><span class=\"relative z-10\">Begin Your Story</span></a></div>",
+        ],
+      },
     ],
     nextSlug: "destination-wedding-planner-guide",
     nextTitle: "Your Destination Wedding Planner Guide to Turn Your Big Day into a Fairytale",
