@@ -20,182 +20,274 @@ export type BlogPost = {
 };
 
 export const blogs: BlogPost[] = [
-  // ── 01 · REAL WEDDING STORY ────────────────────────────────────────────
+  // ── 01 · NRI WEDDING PLANNING ────────────────────────────────────────────
   {
-    slug: "surbhi-and-raj-royal-wedding-jaipur",
+    slug: "why-nri-couples-are-choosing-destination-weddings-in-india-2026",
     number: "01",
-    title: "Surbhi & Raj\u2019s Royal Wedding",
-    subtitle: "in Jaipur",
+    title: "Why NRI Couples Are Choosing Destination Weddings",
+    subtitle: "in India in 2026",
     excerpt:
-      "From Toronto to Jaipur \u2014 a love story that crossed continents, navigated real-life challenges, and unfolded into a five-day palace celebration unlike any other.",
+      "There is a quiet shift happening among NRI couples across Canada, the USA, the UK, and beyond. After years of considering local celebrations, more and more couples are choosing to return to India for their wedding.",
     accent: "#C9A96E",
-    heroImage: "/DEEP9472.JPG",
-    cardImage: "/DEEP9476.JPG",
-    category: "Real Wedding",
-    paragraphs: [], // content lives in sections below
+    heroImage: "/nri_destination_wedding_2026.png",
+    cardImage: "/nri_destination_wedding_2026.png",
+    category: "NRI Wedding Planning",
+    paragraphs: [],
     sections: [
       {
-        // Intro — no heading, rendered as poetic lede
         paragraphs: [
-          "Some weddings are planned.",
-          "Some are designed.",
-          "And then there are weddings like Surbhi & Raj\u2019s \u2014 where every moment is felt.",
+          "There is a quiet shift happening among NRI couples across Canada, the USA, the UK, and beyond. After years of considering local celebrations, more and more couples are choosing to return to India for their wedding \u2014 not out of obligation, but out of a deep, genuine desire for something that feels meaningful, rich, and unlike anything else in the world.",
+          "In 2026, destination weddings in India are not just popular \u2014 they are the preferred choice for NRI couples who want a celebration that truly honours where they come from and who they have become.",
+          "Here is why.",
         ],
       },
       {
-        heading: "\u2764\ufe0f The Story: A Love That Crossed Continents",
+        heading: "India Offers an Unmatched Wedding Experience",
         paragraphs: [
-          "Surbhi and Raj\u2019s journey began in Toronto \u2014 a story built over time, shaped by ambition, distance, and unwavering commitment.",
-          "Their wedding wasn\u2019t just about celebrating love. It was about honoring everything they had navigated to get there \u2014 careers, distance, and the realities of building a life far from home.",
-          "So when it came to their big day, they wanted more than just a wedding.",
-          "They wanted an experience.",
+          "No other country in the world offers the kind of wedding landscape that India does. From royal palaces in Rajasthan and heritage havelis in Jodhpur to beachside resorts in Goa and tea-garden retreats in Coorg \u2014 India's venue diversity is extraordinary. Coupled with the vibrancy of Indian celebrations, the richness of ritual, and the warmth of family culture, a wedding in India is not just an event. It is an experience that spans days, emotions, and generations.",
         ],
       },
       {
-        heading: "\u2728 The Journey: Planning Through Challenges",
+        heading: "The Cost Advantage Is Real",
         paragraphs: [
-          "Planning a destination wedding from Canada to India is never simple \u2014 but for Surbhi & Raj, it came with real challenges.",
-          "Between demanding work schedules and the uncertainty of taking time off, even committing to travel wasn\u2019t easy. At one point, stepping away meant risking job security.",
-          "On top of that, navigating vendors remotely brought its own concerns \u2014 promises that didn\u2019t match delivery, and the constant fear of not getting what was envisioned.",
-          "And yet, despite it all, they made it happen.",
-          "Over the course of two years, they traveled to India three times \u2014 refining, finalizing, and ensuring that every detail aligned with their vision.",
-          "Because for them, this wasn\u2019t just a wedding.",
-          "It was once in a lifetime.",
+          "For the same budget, an Indian destination wedding often delivers far more \u2014 in terms of scale, grandeur, personalisation, and guest experience \u2014 than a comparable celebration abroad. NRI couples increasingly recognise that their investment goes further in India, allowing them to host more guests, create more elaborate experiences, and add personal touches that would otherwise be financially out of reach.",
         ],
       },
       {
-        heading: "\ud83c\udf3f Mehendi: A Story Told in Art",
+        heading: "Both Families Can Finally Celebrate Together",
         paragraphs: [
-          "The celebrations began with a vibrant mehendi, designed not just as an event \u2014 but as a narrative.",
-          "Through intricate, storytelling mehendi designs, Surbhi\u2019s journey with Raj was brought to life \u2014 a visual story etched into every detail.",
-          "The setting reflected warmth and celebration, with thoughtfully curated elements that made guests feel part of something deeply personal.",
+          "One of the most emotionally significant reasons NRI couples choose India is the chance to bring both families together under one roof \u2014 often for the first time in years. A destination wedding in India becomes the occasion that reunites grandparents, cousins, aunts, and uncles across continents. It becomes a homecoming as much as a wedding.",
         ],
       },
       {
-        heading: "\ud83c\udfa4 Sangeet: Where Emotion Took Center Stage",
+        heading: "The Rise of Culturally Intentional Weddings",
         paragraphs: [
-          "The sangeet was more than just performances \u2014 it was storytelling through music and movement.",
-          "Choreographed dances brought together friends and family, creating an atmosphere filled with energy, laughter, and nostalgia.",
-          "But the moment that defined the evening was something no one expected.",
-          "A surprise song from the bride.",
-          "Raw, emotional, and deeply personal \u2014 it left the entire room in tears.",
-          "And as if that wasn\u2019t enough, the couple\u2019s journey was further immortalized through a custom-written song, created after understanding their story \u2014 a piece that belonged only to them.",
+          "NRI couples in 2026 are deeply intentional about honoring their roots. They want rituals performed correctly, traditions explained and preserved, and cultural nuances respected \u2014 even as their celebrations blend modern aesthetics with Indian heritage. Planning that kind of wedding requires someone who understands both worlds. That is exactly the gap a trusted NRI wedding specialist fills.",
         ],
       },
       {
-        heading: "\ud83d\udc51 The Wedding: A Palace Affair",
+        heading: "The Planning Has Become Easier \u2014 With the Right Partner",
         paragraphs: [
-          "Set within the grandeur of a royal palace in Jaipur, the wedding unfolded like a timeless dream.",
-          "With over 200 guests in attendance and celebrations spanning five days, each event carried its own unique identity \u2014 expressed through distinct color palettes, themes, and experiences.",
-          "The ceremony itself was elegant and powerful \u2014 where tradition met refined luxury.",
-          "Surrounded by heritage architecture and loved ones who had traveled across continents, Surbhi & Raj took their vows in a setting that felt nothing short of magical.",
+          "One of the biggest concerns NRI couples once had about Indian destination weddings was the logistical complexity of planning from abroad. Time zones, vendor trust, language barriers, and the fear of being overcharged all made the idea feel overwhelming. But that is changing. With experienced planners who specialise exclusively in NRI destination weddings, the entire process can be managed remotely, transparently, and with complete peace of mind.",
+          "\u201cYou no longer have to fly back and forth ten times to plan a beautiful wedding in India. The right partner handles everything \u2014 so you only fly home to celebrate.\u201d",
+          "At Forever Fuzed, we work exclusively with NRI couples and understand every layer of this journey \u2014 the cultural expectations, the family dynamics, the time zone realities, and the desire for a wedding that feels personal, not generic. We take on only five weddings a year, so every couple receives our complete attention from the first conversation to the final farewell.",
+          "Thinking about a destination wedding in India? Let us help you begin. <a href=\"/contact\" class=\"text-[#C9A96E] hover:text-[#b8975e] underline font-bold transition-colors duration-200\">Reach out</a> through our website and tell us your story.",
         ],
       },
       {
-        heading: "\ud83c\udf89 The Experience: Five Days, Five Stories",
         paragraphs: [
-          "Every day of the wedding was intentionally designed to feel different.",
-          "From vibrant daytime celebrations to elegant evening affairs, each function carried its own mood, energy, and visual identity \u2014 ensuring guests were constantly immersed in a new experience.",
-          "This wasn\u2019t just a sequence of events.",
-          "It was a journey.",
-        ],
-      },
-      {
-        heading: "\ud83c\udf81 The Forever Fuzed Touch",
-        paragraphs: [
-          "What made this wedding truly unforgettable were the personalized experiences woven into every detail.",
-          "Guests were welcomed with luxury curated hampers, designed to reflect the couple\u2019s personality and journey.",
-          "From storytelling mehendi to custom-written music and fully choreographed performances, every element was crafted with intention.",
-          "Behind the scenes, every challenge \u2014 from cross-continental logistics to vendor coordination \u2014 was handled seamlessly, allowing Surbhi & Raj to simply be present.",
-          "Because at Forever Fuzed, we don\u2019t just plan weddings.",
-          "We design experiences that feel personal, effortless, and unforgettable.",
-        ],
-      },
-      {
-        heading: "\u2728 Planning Your Wedding From Abroad?",
-        paragraphs: [
-          "If you\u2019re planning your wedding from Canada or anywhere across the globe, your journey doesn\u2019t have to be overwhelming.",
-          "Let\u2019s create something that\u2019s not just beautiful \u2014 but truly yours.",
+          "<div class=\"my-10 p-6 sm:p-8 rounded-lg border border-[#e8ddd5] bg-[#FAF8F5] flex flex-col md:flex-row md:items-center justify-between gap-6 relative overflow-hidden transition-all duration-300 hover:shadow-md hover:border-[#C9A96E] text-left\"><div class=\"absolute -right-10 -bottom-10 w-40 h-40 rounded-full bg-[#C9A96E] opacity-5 blur-2xl pointer-events-none\"></div><div class=\"space-y-2 max-w-xl relative z-10\"><span class=\"font-lato text-[9px] tracking-[0.3em] text-[#C9A96E] uppercase font-bold\">Forever Fuzed</span><h4 class=\"font-cormorant text-xl sm:text-2xl text-[#3a2e2a] font-normal leading-snug\">The bridge between your vision and your celebration. Only 5 weddings a year. 100% attention. 100% you.</h4></div><a href=\"/contact\" class=\"relative overflow-hidden group shrink-0 inline-block border border-[#C9A96E] px-8 py-3 text-center text-xs font-lato tracking-[0.2em] text-[#C9A96E] uppercase transition-all duration-300 hover:text-white z-10\"><span class=\"absolute inset-0 translate-y-full bg-[#C9A96E] group-hover:translate-y-0 transition-transform duration-300\"></span><span class=\"relative z-10\">Begin Your Story</span></a></div>",
         ],
       },
     ],
-    nextSlug: "designing-emotions-not-just-weddings",
-    nextTitle: "From \u201cYes\u201d to \u201cI Do\u201d",
+    nextSlug: "the-7-biggest-mistakes-nri-couples-make-when-planning-a-wedding-in-india",
+    nextTitle: "The 7 Biggest Mistakes NRI Couples Make When Planning a Wedding in India",
   },
 
-  // ── 02 ─────────────────────────────────────────────────────────────────
+  // ── 02 · NRI WEDDING PLANNING ────────────────────────────────────────────
   {
-    slug: "designing-emotions-not-just-weddings",
+    slug: "the-7-biggest-mistakes-nri-couples-make-when-planning-a-wedding-in-india",
     number: "02",
-    title: "From \u201cYes\u201d to \u201cI Do\u201d",
-    subtitle: "Designing Emotions, Not Just Weddings",
+    title: "The 7 Biggest Mistakes NRI Couples Make",
+    subtitle: "When Planning a Wedding in India (And How to Avoid Them)",
     excerpt:
-      "A wedding is not a single day. It is a journey \u2014 one that begins with a \u201cyes\u201d and unfolds into a lifetime of memories.",
+      "Planning a wedding in India from abroad is one of the most emotionally rewarding \u2014 and logistically complex \u2014 things an NRI couple can do. This guide is for every NRI couple who wants to start on the right foot.",
     accent: "#F2A7B0",
-    heroImage: "/009A2350.jpg",
-    cardImage: "/DEEP7060.jpg",
-    category: "Wedding Philosophy",
-    paragraphs: [
-      "A wedding is not a single day. It is a journey \u2014 one that begins with a \u201cyes\u201d and unfolds into a lifetime of memories.",
-      "At Forever Fuzed, we believe weddings are not about d\u00e9cor, venues, or timelines alone. They are about emotions. The nervous excitement of the proposal, the laughter of shared moments, the quiet glances, the overwhelming joy \u2014 these are the elements that truly define a celebration.",
-      "Designing a wedding, therefore, is not about assembling vendors. It is about curating feelings.",
-      "Every couple carries a unique story \u2014 how they met, what they overcame, what they dream of. Our role is to translate that invisible narrative into a tangible experience. From the way your guests are welcomed, to the music that plays during your first step together, every detail is intentionally crafted to evoke emotion.",
-      "We design transitions, not just events. The build-up of anticipation, the crescendo of celebration, and the lingering warmth that stays long after the final goodbye.",
-      "Because years later, you won\u2019t remember the exact shade of the flowers \u2014 but you will remember how it all felt.",
-      "And that is what we design.",
+    heroImage: "/nri_wedding_planning_mistakes_2026.png",
+    cardImage: "/nri_wedding_planning_mistakes_2026.png",
+    category: "NRI Wedding Planning",
+    paragraphs: [],
+    sections: [
+      {
+        paragraphs: [
+          "Planning a wedding in India from abroad is one of the most emotionally rewarding \u2014 and logistically complex \u2014 things an NRI couple can do. Over ten years and more than 40 events, we have seen the same mistakes come up again and again. Not because couples are careless, but because nobody told them what to watch out for.",
+          "This guide is for every NRI couple who is beginning their planning journey and wants to start on the right foot.",
+        ],
+      },
+      {
+        heading: "Mistake 1: Booking Vendors Without a Trusted Reference",
+        paragraphs: [
+          "The Indian wedding vendor ecosystem is vast, and not everyone operates with transparency. Couples who book vendors based solely on Instagram pages or website portfolios \u2014 without a trusted recommendation or on-ground verification \u2014 often face surprises on the day itself. Always work with a planner who has existing, vetted relationships with reliable vendors.",
+        ],
+      },
+      {
+        heading: "Mistake 2: Underestimating the Timeline",
+        paragraphs: [
+          "Many NRI couples begin planning six months before their wedding, assuming that is enough time. In reality, a destination wedding in India \u2014 especially one involving multiple events, international guests, and personalised experiences \u2014 requires at least 12 to 18 months of lead time. Starting late limits your venue options, vendor availability, and the depth of personalisation possible.",
+        ],
+      },
+      {
+        heading: "Mistake 3: Letting Family Manage the Logistics",
+        paragraphs: [
+          "It is natural to lean on family members in India to help coordinate things. But what often happens is that your family ends up overwhelmed with logistics and vendor management during what should be one of the most joyful times of their lives. Your parents, siblings, and relatives should be celebrating \u2014 not coordinating caterers and chasing decorators.",
+        ],
+      },
+      {
+        heading: "Mistake 4: Not Planning for Time Zone Communication",
+        paragraphs: [
+          "When you are in Canada or the USA and your vendors are in India, a 9 to 12 hour time difference creates real friction. Couples who do not plan for this often experience delays in approvals, missed calls, and last-minute confusion. A good wedding planner acts as your on-ground liaison and ensures communication flows seamlessly \u2014 regardless of what time it is on your side of the world.",
+        ],
+      },
+      {
+        heading: "Mistake 5: Choosing a Venue Before Setting a Vision",
+        paragraphs: [
+          "It is tempting to lock in a beautiful venue the moment you see it online. But a venue should serve your vision, not define it. Couples who reverse this process often find themselves adjusting their entire wedding aesthetic to suit a venue they rushed into booking, rather than finding a space that naturally brings their vision to life.",
+        ],
+      },
+      {
+        heading: "Mistake 6: Ignoring Budget Transparency",
+        paragraphs: [
+          "One of the most common fears NRI couples have is being overcharged or misled on costs. This is a very real concern in the Indian wedding industry. Always insist on itemised budgets, written agreements, and a planner who practices complete cost transparency. At Forever Fuzed, budget tracking and financial clarity are built into every step of our process.",
+        ],
+      },
+      {
+        heading: "Mistake 7: Trying to Do Too Much Themselves",
+        paragraphs: [
+          "The desire to be involved in every decision is completely understandable \u2014 it is your wedding. But when you are managing this from a different continent, trying to handle everything yourself leads to exhaustion, decision fatigue, and stress that takes the joy out of the journey. The most successful destination weddings we have planned are those where the couple trusted us with the execution and focused their energy on enjoying the experience.",
+          "\u201cThe couples who enjoy their wedding journey the most are the ones who give us their dreams \u2014 and let us handle the details.\u201d",
+          "At Forever Fuzed, we exist to prevent every one of these mistakes. We are your eyes and ears on the ground, your trusted planner across time zones, and your partner through every decision \u2014 big and small.",
+          "Planning your wedding in India? Let us guide you from the very first step. <a href=\"/contact\" class=\"text-[#F2A7B0] hover:text-[#e09aa2] underline font-bold transition-colors duration-200\">Contact us</a> through our website today.",
+        ],
+      },
+      {
+        paragraphs: [
+          "<div class=\"my-10 p-6 sm:p-8 rounded-lg border border-[#e8ddd5] bg-[#FAF8F5] flex flex-col md:flex-row md:items-center justify-between gap-6 relative overflow-hidden transition-all duration-300 hover:shadow-md hover:border-[#F2A7B0] text-left\"><div class=\"absolute -right-10 -bottom-10 w-40 h-40 rounded-full bg-[#F2A7B0] opacity-5 blur-2xl pointer-events-none\"></div><div class=\"space-y-2 max-w-xl relative z-10\"><span class=\"font-lato text-[9px] tracking-[0.3em] text-[#F2A7B0] uppercase font-bold\">Forever Fuzed</span><h4 class=\"font-cormorant text-xl sm:text-2xl text-[#3a2e2a] font-normal leading-snug\">The bridge between your vision and your celebration. Only 5 weddings a year. 100% attention. 100% you.</h4></div><a href=\"/contact\" class=\"relative overflow-hidden group shrink-0 inline-block border border-[#F2A7B0] px-8 py-3 text-center text-xs font-lato tracking-[0.2em] text-[#F2A7B0] uppercase transition-all duration-300 hover:text-white z-10\"><span class=\"absolute inset-0 translate-y-full bg-[#F2A7B0] group-hover:translate-y-0 transition-transform duration-300\"></span><span class=\"relative z-10\">Begin Your Story</span></a></div>",
+        ],
+      },
     ],
-    nextSlug: "why-your-wedding-should-tell-a-story",
-    nextTitle: "Why Your Wedding Should Tell a Story",
+    nextSlug: "how-to-plan-a-multi-day-indian-wedding-from-abroad",
+    nextTitle: "How to Plan a Multi-Day Indian Wedding from Abroad",
   },
 
   // ── 03 ─────────────────────────────────────────────────────────────────
+  // ── 03 · PLANNING GUIDE ────────────────────────────────────────────────
   {
-    slug: "why-your-wedding-should-tell-a-story",
+    slug: "how-to-plan-a-multi-day-indian-wedding-from-abroad",
     number: "03",
-    title: "Why Your Wedding Should Tell a Story",
-    subtitle: "Not Just Be an Event",
+    title: "How to Plan a Multi-Day Indian Wedding from Abroad",
+    subtitle: "A Step-by-Step Guide",
     excerpt:
-      "A truly unforgettable wedding is not defined by how grand it is, but by how personal it feels.",
+      "A multi-day Indian wedding is one of the most beautiful, layered, and emotionally rich celebrations in the world. It is also one of the most complex to coordinate.",
     accent: "#9CA195",
-    heroImage: "/DEEP7050.jpg",
-    cardImage: "/DEEP7056.jpg",
-    category: "Storytelling",
-    paragraphs: [
-      "In a world of Pinterest boards and Instagram trends, weddings are starting to look beautiful \u2014 but increasingly similar.",
-      "But your love story is not generic. So why should your wedding be?",
-      "A truly unforgettable wedding is not defined by how grand it is, but by how personal it feels. It should reflect your journey \u2014 your quirks, your culture, your shared moments, and your future together.",
-      "At Forever Fuzed, we approach every wedding as a narrative waiting to be told.",
-      "Your story could unfold through subtle details \u2014 a mehendi design that illustrates your journey, a choreographed performance that brings your memories to life, or a carefully curated playlist that marks every phase of your relationship.",
-      "Even the smallest elements \u2014 invitations, d\u00e9cor accents, or guest experiences \u2014 can become storytelling tools when designed intentionally.",
-      "When your wedding tells a story, your guests don\u2019t just attend \u2014 they feel involved. They connect. They remember.",
-      "Because they\u2019re not just witnessing an event.",
-      "They\u2019re experiencing your story.",
+    heroImage: "/multi_day_indian_wedding_planning_2026.png",
+    cardImage: "/multi_day_indian_wedding_planning_2026.png",
+    category: "Planning Guide",
+    paragraphs: [],
+    sections: [
+      {
+        paragraphs: [
+          "A multi-day Indian wedding is one of the most beautiful, layered, and emotionally rich celebrations in the world. It is also one of the most complex to coordinate \u2014 especially when you are planning it from thousands of kilometres away. This guide walks you through how to approach it, step by step, so the journey feels manageable and the celebration feels extraordinary.",
+        ],
+      },
+      {
+        heading: "Step 1: Begin With a Vision, Not a Checklist",
+        paragraphs: [
+          "Before you think about venues, caterers, or decorators, take time to ask yourselves the most important questions. What do you want your wedding to feel like? What traditions are non-negotiable? What kind of experience do you want your guests to have? What story do you want to tell? Your answers to these questions become the foundation of every decision that follows.",
+        ],
+      },
+      {
+        heading: "Step 2: Set Your Timeline \u2014 12 to 18 Months Out",
+        paragraphs: [
+          "Multi-day weddings in India require significantly more lead time than a single-event celebration. Premium venues, top photographers, and sought-after decorators book up fast \u2014 especially during peak wedding seasons. Starting your planning 12 to 18 months in advance gives you the best selection, the most flexibility, and the time to personalise every detail without feeling rushed.",
+        ],
+      },
+      {
+        heading: "Step 3: Choose Your Wedding Specialist Before Anything Else",
+        paragraphs: [
+          "Your wedding planner is the most important decision you will make. They become your presence in India \u2014 your trusted face on the ground who manages vendors, coordinates logistics, and ensures your vision is executed exactly as you imagined. Choose someone who understands the NRI mindset, has verified vendor relationships, and communicates transparently across time zones.",
+        ],
+      },
+      {
+        heading: "Step 4: Plan Your Events in Sequence",
+        paragraphs: [
+          "A typical multi-day Indian wedding includes a Mehendi, Haldi, Sangeet, Wedding ceremony, and Reception. Each event has its own aesthetic, energy, and logistical requirements. Plan them as individual experiences \u2014 each with its own design concept, entertainment, and flow \u2014 while ensuring the overall narrative of your celebration feels cohesive and intentional.",
+        ],
+      },
+      {
+        heading: "Step 5: Build Your Guest Experience From Arrival to Farewell",
+        paragraphs: [
+          "International guests travelling to India for your wedding deserve a seamless, well-managed experience from the moment they land. Think through airport transfers, hotel allocations, local transportation, welcome hampers, and hospitality throughout their stay. The more thoughtfully you plan the guest journey, the more celebrated your wedding will feel \u2014 for everyone who attends.",
+        ],
+      },
+      {
+        heading: "Step 6: Keep Communication Structured",
+        paragraphs: [
+          "With multiple vendors, family members, and time zones involved, communication is everything. Establish a single point of contact \u2014 your wedding planner \u2014 for all vendor communication, and create a clear approval structure so decisions are made quickly and confidently. Weekly check-ins with your planner, scheduled at a time that works across time zones, keep everything on track.",
+        ],
+      },
+      {
+        heading: "Step 7: Trust the Process \u2014 And Enjoy the Journey",
+        paragraphs: [
+          "The most important step of all is this: trust the process you have built and allow yourself to enjoy the journey. If you have chosen the right planner, established clear communication, and built a realistic timeline, your only job is to live the anticipation, the excitement, and ultimately, the celebration itself.",
+          "\u201cA multi-day Indian wedding is not just an event to be managed. It is an experience to be lived. Your role is to be present for every moment of it.\u201d",
+          "At Forever Fuzed, we specialise exclusively in multi-day destination weddings in India for NRI couples. With over a decade of experience and a commitment to taking on only five weddings a year, we give every celebration the time, attention, and creativity it deserves.",
+          "Ready to begin planning your multi-day celebration? <a href=\"/contact\" class=\"text-[#9CA195] hover:text-[#8a9084] underline font-bold transition-colors duration-200\">Reach out to us</a> through our website and let us start with your vision.",
+        ],
+      },
+      {
+        paragraphs: [
+          "<div class=\"my-10 p-6 sm:p-8 rounded-lg border border-[#e8ddd5] bg-[#FAF8F5] flex flex-col md:flex-row md:items-center justify-between gap-6 relative overflow-hidden transition-all duration-300 hover:shadow-md hover:border-[#9CA195] text-left\"><div class=\"absolute -right-10 -bottom-10 w-40 h-40 rounded-full bg-[#9CA195] opacity-5 blur-2xl pointer-events-none\"></div><div class=\"space-y-2 max-w-xl relative z-10\"><span class=\"font-lato text-[9px] tracking-[0.3em] text-[#9CA195] uppercase font-bold\">Forever Fuzed</span><h4 class=\"font-cormorant text-xl sm:text-2xl text-[#3a2e2a] font-normal leading-snug\">The bridge between your vision and your celebration. Only 5 weddings a year. 100% attention. 100% you.</h4></div><a href=\"/contact\" class=\"relative overflow-hidden group shrink-0 inline-block border border-[#9CA195] px-8 py-3 text-center text-xs font-lato tracking-[0.2em] text-[#9CA195] uppercase transition-all duration-300 hover:text-white z-10\"><span class=\"absolute inset-0 translate-y-full bg-[#9CA195] group-hover:translate-y-0 transition-transform duration-300\"></span><span class=\"relative z-10\">Begin Your Story</span></a></div>",
+        ],
+      },
     ],
-    nextSlug: "behind-the-scenes-luxury-wedding-planner",
-    nextTitle: "Behind the Scenes of a Luxury Wedding Planner",
+    nextSlug: "why-your-family-should-celebrate-your-wedding-not-manage-it",
+    nextTitle: "Why Your Family Should Celebrate Your Wedding \u2014 Not Manage It",
   },
 
   // ── 04 ─────────────────────────────────────────────────────────────────
+  // ── 04 · NRI WEDDING INSIGHTS ────────────────────────────────────────────────
   {
-    slug: "behind-the-scenes-luxury-wedding-planner",
+    slug: "why-your-family-should-celebrate-your-wedding-not-manage-it",
     number: "04",
-    title: "Behind the Scenes of a",
-    subtitle: "Luxury Wedding Planner",
+    title: "Why Your Family Should Celebrate Your Wedding",
+    subtitle: "\u2014 Not Manage It",
     excerpt:
-      "Luxury weddings may look effortless \u2014 but behind every seamless celebration lies months of meticulous planning, coordination, and precision.",
+      "If you are an NRI couple planning a wedding in India, there is a very good chance someone in your family has already said: \"Don't worry, we have family in India \u2014 they can manage everything.\"",
     accent: "#C9A96E",
-    heroImage: "/DEEP7495.jpg",
-    cardImage: "/DEEP7492.JPG",
-    category: "Our Process",
-    paragraphs: [
-      "Luxury weddings may look effortless \u2014 but behind every seamless celebration lies months of meticulous planning, coordination, and precision.",
-      "At Forever Fuzed, what you see is elegance. What you don\u2019t see is the orchestration behind it.",
-      "From the very first consultation, our focus is to understand not just what you want, but how you want to feel. This becomes the foundation for every decision that follows.",
-      "We collaborate with carefully selected vendors, manage complex logistics, and anticipate challenges before they arise. Timelines are crafted down to the minute, ensuring every transition flows naturally without disrupting the experience.",
-      "On the wedding day, while you are immersed in celebration, we are managing hundreds of moving parts \u2014 from vendor coordination to guest experience to last-minute adjustments that ensure perfection.",
-      "Luxury is not just about how something looks.",
-      "It is about how effortlessly it unfolds.",
-      "And that effortlessness is never accidental \u2014 it is designed.",
+    heroImage: "/family_celebrating_wedding_2026.png",
+    cardImage: "/family_celebrating_wedding_2026.png",
+    category: "NRI Wedding Insights",
+    paragraphs: [],
+    sections: [
+      {
+        paragraphs: [
+          "If you are an NRI couple planning a wedding in India, there is a very good chance someone in your family has already said: \u201cDon't worry, we have family in India \u2014 they can manage everything.\u201d",
+          "And they mean it with the best of intentions. Your family loves you. They want to help. They genuinely believe they can handle it.",
+          "But here is what we have seen happen, again and again, across more than 40 weddings.",
+        ],
+      },
+      {
+        heading: "What Happens When Family Manages the Wedding",
+        paragraphs: [
+          "Your uncle who volunteered to coordinate the caterer ends up in a heated argument with the decorator on the morning of the ceremony. Your mother, who was supposed to be getting ready with you, is fielding calls from the florist about a last-minute change. Your siblings, who should be dancing at the Sangeet, are instead managing the seating arrangement because something changed at the venue.",
+          "Nobody meant for this to happen. But weddings are logistically complex, emotionally charged, and full of last-minute variables. Even the most capable, well-intentioned family member cannot manage vendor coordination, guest logistics, and unexpected challenges while also being fully present as a family member.",
+          "And that loss \u2014 of your family being present with you \u2014 is one of the things you can never get back.",
+        ],
+      },
+      {
+        heading: "What a Professional Planner Actually Does",
+        paragraphs: [
+          "A professional wedding planner does not replace your family. They protect your family. They take on everything that would otherwise fall on the shoulders of your loved ones \u2014 vendor coordination, timeline management, crisis handling, logistics, and execution \u2014 so that everyone who matters to you can be fully, joyfully present.",
+          "Your mother should be seated in the front row, watching you walk down the aisle, with happy tears in her eyes. Not standing outside on a phone call sorting out a catering issue.",
+          "Your father should be laughing with your relatives at the Sangeet. Not chasing a decorator about a stage setup.",
+          "Your siblings should be dancing with you. Not managing a spreadsheet.",
+        ],
+      },
+      {
+        heading: "The NRI Reality",
+        paragraphs: [
+          "For NRI couples specifically, this is even more important. You may not have been in India recently. Your family on the ground is already managing the pressure of hosting international guests and navigating family expectations from both sides. Adding full wedding coordination to their plate is not fair to them \u2014 and it is not fair to you.",
+          "\u201cYour family should be celebrating your wedding. Not running it. That is what we are here for.\u201d",
+          "At Forever Fuzed, we become your on-ground presence so your family can simply show up as family. We handle the details, the vendors, the logistics, and the unexpected \u2014 so every person who loves you can be fully present for the moments that matter.",
+          "We take on only five weddings a year precisely because this level of involvement requires our complete attention. This is not a service we offer at scale. It is a partnership we offer with care.",
+          "Let your family celebrate. Let us handle the rest. <a href=\"/contact\" class=\"text-[#C9A96E] hover:text-[#b8975e] underline font-bold transition-colors duration-200\">Connect with us</a> through our website to begin your planning journey.",
+        ],
+      },
+      {
+        paragraphs: [
+          "<div class=\"my-10 p-6 sm:p-8 rounded-lg border border-[#e8ddd5] bg-[#FAF8F5] flex flex-col md:flex-row md:items-center justify-between gap-6 relative overflow-hidden transition-all duration-300 hover:shadow-md hover:border-[#C9A96E] text-left\"><div class=\"absolute -right-10 -bottom-10 w-40 h-40 rounded-full bg-[#C9A96E] opacity-5 blur-2xl pointer-events-none\"></div><div class=\"space-y-2 max-w-xl relative z-10\"><span class=\"font-lato text-[9px] tracking-[0.3em] text-[#C9A96E] uppercase font-bold\">Forever Fuzed</span><h4 class=\"font-cormorant text-xl sm:text-2xl text-[#3a2e2a] font-normal leading-snug\">The bridge between your vision and your celebration. Only 5 weddings a year. 100% attention. 100% you.</h4></div><a href=\"/contact\" class=\"relative overflow-hidden group shrink-0 inline-block border border-[#C9A96E] px-8 py-3 text-center text-xs font-lato tracking-[0.2em] text-[#C9A96E] uppercase transition-all duration-300 hover:text-white z-10\"><span class=\"absolute inset-0 translate-y-full bg-[#C9A96E] group-hover:translate-y-0 transition-transform duration-300\"></span><span class=\"relative z-10\">Begin Your Story</span></a></div>",
+        ],
+      },
     ],
     nextSlug: "from-your-love-story-to-a-song-forever-fuzed-signature-experience",
     nextTitle: "From Your Love Story to a Song: The Forever Fuzed Signature Experience",
@@ -210,8 +302,8 @@ export const blogs: BlogPost[] = [
     excerpt:
       "Every couple has a story. At most weddings, that story lives in your hearts and in the memories of the people closest to you. At a Forever Fuzed wedding, it lives in a song.",
     accent: "#C9A96E",
-    heroImage: "/DEEP9490.JPG",
-    cardImage: "/DEEP8535.JPG",
+    heroImage: "/love_story_song_wedding_2026.png",
+    cardImage: "/love_story_song_wedding_2026.png",
     category: "Forever Fuzed Signature",
     paragraphs: [],
     sections: [
@@ -1070,7 +1162,7 @@ export const blogs: BlogPost[] = [
       ]
     }
   ],
-  nextSlug: "surbhi-and-raj-royal-wedding-jaipur",
-  nextTitle: "Surbhi & Raj\u2019s Royal Wedding",
+  nextSlug: "why-nri-couples-are-choosing-destination-weddings-in-india-2026",
+  nextTitle: "Why NRI Couples Are Choosing Destination Weddings",
 },
  ];
