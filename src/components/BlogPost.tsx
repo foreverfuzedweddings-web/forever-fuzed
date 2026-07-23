@@ -73,7 +73,7 @@ function BlogHero({ post }: { post: BlogPostType }) {
           initial={{ opacity: 0, y: 24 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.35 }}
-          className="font-cormorant text-white font-light leading-[1.06] text-5xl sm:text-6xl md:text-7xl lg:text-[80px] max-w-3xl"
+          className="font-cormorant text-white font-bold leading-[1.06] text-6xl sm:text-7xl md:text-[80px] lg:text-[96px] max-w-4xl"
         >
           {post.title}
         </motion.h1>
@@ -287,7 +287,7 @@ function SectionsBlogLayout({ post }: { post: BlogPostType }) {
                     className="w-1 h-7 shrink-0 rounded-sm"
                     style={{ backgroundColor: post.accent }}
                   />
-                  <h2 className="font-cormorant text-[#3a2e2a] font-light text-2xl sm:text-[28px] leading-snug">
+                  <h2 className="font-cormorant text-[#3a2e2a] font-extrabold text-3xl sm:text-4xl md:text-[36px] leading-snug">
                     {section.heading}
                   </h2>
                 </motion.div>
