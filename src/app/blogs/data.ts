@@ -1380,7 +1380,107 @@ export const blogs: BlogPost[] = [
         ],
       },
     ],
-    nextSlug: "5-luxury-gift-hamper-mistakes-nri-couples-can-avoid",
-    nextTitle: "5 Luxury Gift Hamper Mistakes NRI Couples Can Avoid with Expert Destination Wedding Planners",
+    nextSlug: "questions-a-destination-wedding-event-planner-will-ask-you-at-your-first-meeting",
+    nextTitle: "Questions a Destination Wedding Event Planner Will Ask You at Your First Meeting",
+  },
+
+  // ── 20 · NRI WEDDING PLANNING ────────────────────────────────────────────
+  {
+    slug: "questions-a-destination-wedding-event-planner-will-ask-you-at-your-first-meeting",
+    number: "20",
+    title: "Questions a Destination Wedding Event Planner Will Ask You",
+    subtitle: "at Your First Meeting",
+    excerpt:
+      "There's a particular kind of nervousness that comes before your first consultation with a destination wedding event planner. Like every NRI couple, you might have saved a hundred inspiration photos...",
+    accent: "#C9A96E",
+    heroImage: "/first_meeting_planner.png",
+    cardImage: "/luxury_hampers_nri.png",
+    category: "NRI Wedding Planning",
+    paragraphs: [],
+    sections: [
+      {
+        paragraphs: [
+          "There's a particular kind of nervousness that comes before your first consultation with a <strong>destination wedding event planner</strong>. Like every NRI couple, you might have saved a hundred inspiration photos, you have opinions about florals you didn't know you had, and yet \u2014 you're not entirely sure what you're supposed to say when someone finally asks, \"So, tell me about your wedding.\"",
+          "For NRI couples especially, that first meeting carries extra weight. You're often planning a celebration in a country you haven't lived in for years, coordinating with family across three time zones, and trying to translate a lifetime of memories \u2014 festivals in your grandmother's courtyard, Sunday phone calls with cousins, the smell of your mother's kitchen during Diwali \u2014 into a single, cohesive event brief.",
+          "Here's the good news: you don't need to have it all figured out. A skilled <strong>wedding event planner</strong> like Foreover Fuzed Weddings won\u2019t be testing you for sure. They're listening for the story underneath your answers, so they can build a memorable wedding experience that actually feels like you.",
+          "Here's what that first conversation with India\u2019s No. 1 <strong>best wedding planner</strong> for a luxury destination wedding usually looks like \u2014 and why each question matters more than it seems.",
+        ],
+      },
+      {
+        heading: "1. \"What does this wedding need to feel like?\"",
+        paragraphs: [
+          "Before any <strong>wedding event planner</strong> asks about budgets or guest counts, the good ones ask about feeling. Do you want your <strong>destination wedding</strong> to feel intimate and hushed, or larger-than-life and unforgettable?",
+          "Should it feel unmistakably rooted in tradition, or a modern remix of it?",
+          "This question matters because every decision that follows \u2014 <strong>destination wedding venue</strong>, lighting, music, even the wedding hampers guests receive at check-in \u2014 flows from this emotional brief.",
+          "Any <strong>NRI wedding planner in India</strong> who skips this and jumps straight to logistics is just planning an event, not a memory.",
+        ],
+      },
+      {
+        heading: "2. \"Who is this wedding actually for?\"",
+        paragraphs: [
+          "This one surprises many NRI couples planning a <strong>destination wedding in India</strong>. The honest answer is rarely \"just us.\"",
+          "For NRI couples, weddings often carry the hopes of two families who've waited years to host this celebration in the homeland, alongside your own vision as a couple building a life abroad.",
+          "Your <strong>wedding event planner</strong> needs to know: Is this primarily about honoring parents who couldn't host you getting married nearby? Is it about giving overseas relatives a reason to finally visit India together? Naming this early prevents friction later, when decisions about guest lists or rituals start to feel like a tug-of-war.",
+          "<div class=\"my-10 p-6 sm:p-8 rounded-lg border border-[#e8ddd5] bg-[#FAF8F5] flex flex-col md:flex-row md:items-center justify-between gap-6 relative overflow-hidden transition-all duration-300 hover:shadow-md hover:border-[#C9A96E] text-left\"><div class=\"absolute -right-10 -bottom-10 w-40 h-40 rounded-full bg-[#C9A96E] opacity-5 blur-2xl pointer-events-none\"></div><div class=\"space-y-2 max-w-xl relative z-10\"><span class=\"font-lato text-[9px] tracking-[0.3em] text-[#C9A96E] uppercase font-bold\">CTA 1</span><p class=\"font-cormorant text-xl sm:text-2xl text-[#3a2e2a] font-normal leading-snug\">Because the best gifts feel like they were made just for you.</p></div><a href=\"/services/luxury-gifting\" class=\"relative overflow-hidden group shrink-0 inline-block border border-[#C9A96E] px-8 py-3 text-center text-xs font-lato tracking-[0.2em] text-[#C9A96E] uppercase transition-all duration-300 hover:text-white z-10\"><span class=\"absolute inset-0 translate-y-full bg-[#C9A96E] group-hover:translate-y-0 transition-transform duration-300\"></span><span class=\"relative z-10\">Explore Our Luxury Gift Hampers &rarr;</span></a></div>",
+        ],
+      },
+      {
+        heading: "3. \"What's your realistic budget \u2014 and where do you want to spend more?\"",
+        paragraphs: [
+          "Every trusted <strong>luxury Indian wedding planner for NRIs</strong> like Foreover Fuzed Weddings asks about budget, but the better ones ask a second, sharper question: within that number, what are you willing to spend more on, and what matters less to you?",
+          "Some NRI couples want every rupee visible in the <strong>wedding services</strong>, wedding styling, design, decor, and florals. Others would rather quietly splurge on guest experience \u2014 private transport, luxury gifting, a seamless arrival for grandparents flying in from Vancouver.",
+          "This isn't about justifying your budget. It's about helping your planner protect the 20% of decisions that will matter to you in 10 years, rather than spreading resources evenly across everything.",
+        ],
+      },
+      {
+        heading: "4. \"Tell me about your guests \u2014 where are they coming from, and who are they to you?\"",
+        paragraphs: [
+          "For a destination wedding inviting families from Toronto, Houston, London, and Mumbai in the same week, guest logistics and management are not a side detail \u2014 they're half the wedding. Expect questions about approximate guest count, how many are travelling internationally, elderly relatives who'll need extra care, and any cultural or religious considerations across your guest list.",
+          "This is also where luxury gifting quietly enters the conversation. The <strong>best wedding event planner</strong> thinking ahead will ask: what should a guest feel the moment they land \u2014 met at the airport, handed a welcome hamper, guided to their room without lifting a finger? Thoughtful gifting isn't an afterthought tacked on later; it's part of how hospitality is designed from day one.",
+        ],
+      },
+      {
+        heading: "5. \"Are there rituals or traditions that are non-negotiable?\"",
+        paragraphs: [
+          "Multi-day Indian weddings often blend regional customs, religious requirements, and family-specific traditions that don't exist in any generic checklist. At Forever Fuzed Weddings, your <strong>luxury destination wedding planner</strong> will ask what ceremonies you're including, whether you're merging traditions from two different communities or regions, and if there are any rituals your parents will insist on that you may not have thought to mention.",
+          "Getting this right early avoids the worst kind of surprise \u2014 discovering three weeks before the wedding that your planner didn't know the mandap needed to face a specific direction, or that a particular ritual requires a priest who speaks a specific language.",
+        ],
+      },
+      {
+        heading: "6. \"How involved do you want to be in the planning process?\"",
+        paragraphs: [
+          "Some NRI couples want to approve every fabric swatch. Others want to hand over the vision and be surprised on the day. Neither is wrong \u2014 but your <strong>destination wedding event planner</strong> needs to know which one you are, because it changes how they communicate with you: weekly video calls and mood boards, or monthly check-ins with final approvals only.",
+          "For NRI couples juggling careers, time zones, and jet lag, this question is really about protecting your time and sanity during an already demanding year.",
+        ],
+      },
+      {
+        heading: "7. \"What does the guest experience need to feel like, start to finish?\"",
+        paragraphs: [
+          "This goes beyond the ceremony itself. A thoughtful <strong>NRI wedding planner in India</strong> will ask about the entire arc of your guests' experience \u2014 airport pickups, welcome gifts, transportation between <strong>destination wedding places</strong>, farewell mementos.",
+          "For many NRI families, this is where <strong>luxury gifting for NRI weddings</strong> becomes a storytelling tool: a hamper that includes a handwritten note in a grandmother's mother tongue, or regional sweets that guests haven't tasted since childhood.",
+          "The question isn't just logistical. It's emotional: what do you want your 250 guests to remember most, once the confetti settles?",
+        ],
+      },
+      {
+        heading: "8. \"What's actually stressing you out right now?\"",
+        paragraphs: [
+          "The top <strong>destination wedding planner Canada to India</strong> asks this directly, because it tells them where to focus first. Maybe it's managing two sets of parents with different visions. Maybe it's coordinating vendors from another continent without ever seeing the venue in person. Maybe it's simply not knowing where to start.",
+          "This question isn't small talk \u2014 it's your <strong>wedding coordinator near me</strong> or <strong>Canada based wedding planner India</strong> identifying the one thing they need to solve immediately to earn your trust.",
+          "<div class=\"my-10 p-6 sm:p-8 rounded-lg border border-[#e8ddd5] bg-[#FAF8F5] flex flex-col md:flex-row md:items-center justify-between gap-6 relative overflow-hidden transition-all duration-300 hover:shadow-md hover:border-[#C9A96E] text-left\"><div class=\"absolute -right-10 -bottom-10 w-40 h-40 rounded-full bg-[#C9A96E] opacity-5 blur-2xl pointer-events-none\"></div><div class=\"space-y-2 max-w-xl relative z-10\"><span class=\"font-lato text-[9px] tracking-[0.3em] text-[#C9A96E] uppercase font-bold\">CTA 2</span><p class=\"font-cormorant text-xl sm:text-2xl text-[#3a2e2a] font-normal leading-snug\">Great weddings start with one good conversation.</p></div><a href=\"/contact\" class=\"relative overflow-hidden group shrink-0 inline-block border border-[#C9A96E] px-8 py-3 text-center text-xs font-lato tracking-[0.2em] text-[#C9A96E] uppercase transition-all duration-300 hover:text-white z-10\"><span class=\"absolute inset-0 translate-y-full bg-[#C9A96E] group-hover:translate-y-0 transition-transform duration-300\"></span><span class=\"relative z-10\">Contact Us for Luxury Wedding Planning &rarr;</span></a></div>",
+        ],
+      },
+      {
+        heading: "The Real Takeaway",
+        paragraphs: [
+          "The first meeting isn't a formality before the \"real\" planning begins \u2014 it is the planning. Every question above exists to turn your story into a working blueprint, long before a single vendor is booked.",
+          "So walk in with honesty, not answers. Talk about the ritual your loved ones won't compromise on, the guest list spread across three continents, the wedding gift or personalized hamper you want people to remember for years. The best <strong>wedding event planners</strong> aren't the ones with the most polished proposals \u2014 they're the ones who asked the right questions early enough to get it right.",
+          "Because when it's done well, no one remembers the meeting. They just remember how it felt to arrive.",
+          "Not sure where to start with your own wedding? Let's have that first conversation. Tell us your story, and we'll help you turn it into a celebration your family remembers for generations. <a href=\"/contact\" class=\"text-[#C9A96E] hover:text-[#b8975e] underline font-bold transition-colors duration-200\">Contact Us Today &rarr;</a>",
+        ],
+      },
+    ],
+    nextSlug: "why-nri-couples-are-choosing-destination-weddings-in-india-2026",
+    nextTitle: "Why NRI Couples Are Choosing Destination Weddings in India in 2026",
   },
 ];
+

@@ -272,7 +272,7 @@ function SectionsBlogLayout({ post }: { post: BlogPostType }) {
 
         <div className="max-w-3xl mx-auto relative z-10">
           {contentSections.map((section, si) => (
-            <div key={si} className={si > 0 ? "mt-14" : ""}>
+            <div key={si} className={si > 0 ? "mt-16 pt-4 border-t border-[#e8ddd5]/60" : ""}>
               {/* Section heading */}
               {section.heading && (
                 <motion.div
@@ -281,13 +281,13 @@ function SectionsBlogLayout({ post }: { post: BlogPostType }) {
                   whileInView="show"
                   viewport={{ once: true, amount: 0.2 }}
                   transition={{ duration: 0.6 }}
-                  className="flex items-center gap-4 mb-6"
+                  className="flex items-start sm:items-center gap-4 mb-6"
                 >
                   <div
-                    className="w-1 h-7 shrink-0 rounded-sm"
+                    className="w-1.5 h-8 shrink-0 rounded-sm mt-1 sm:mt-0"
                     style={{ backgroundColor: post.accent }}
                   />
-                  <h2 className="font-cormorant text-[#3a2e2a] font-extrabold text-3xl sm:text-4xl md:text-[36px] leading-snug">
+                  <h2 className="font-cormorant text-[#2A1E1A] font-extrabold text-3xl sm:text-4xl md:text-[38px] leading-tight tracking-tight">
                     {section.heading}
                   </h2>
                 </motion.div>
@@ -304,7 +304,7 @@ function SectionsBlogLayout({ post }: { post: BlogPostType }) {
                     viewport={{ once: true, amount: 0.2 }}
                     transition={{ duration: 0.65, delay: pi * 0.05 }}
                     className={
-                      para.length <= 65
+                      para.length <= 65 && !para.includes("<div")
                         ? "font-cormorant italic text-[#3a2e2a] font-light text-xl sm:text-2xl leading-normal"
                         : "font-lato text-[#4a3f3a] text-sm sm:text-base leading-loose"
                     }
@@ -312,6 +312,29 @@ function SectionsBlogLayout({ post }: { post: BlogPostType }) {
                   />
                 ))}
               </div>
+
+              {/* Mid-article realistic photo break */}
+              {si === 3 && post.cardImage && post.cardImage !== post.heroImage && (
+                <motion.div
+                  variants={fadeUp}
+                  initial="hidden"
+                  whileInView="show"
+                  viewport={{ once: true, amount: 0.2 }}
+                  transition={{ duration: 0.8 }}
+                  className="my-14 relative rounded-xl overflow-hidden shadow-lg border border-[#e8ddd5] group"
+                >
+                  <div className="relative h-[360px] sm:h-[440px] w-full">
+                    <Image
+                      src={post.cardImage}
+                      alt={post.title}
+                      fill
+                      className="object-cover object-center transition-transform duration-700 group-hover:scale-105"
+                      sizes="(max-width: 768px) 100vw, 768px"
+                    />
+                    <div className="absolute inset-0 bg-black/15" />
+                  </div>
+                </motion.div>
+              )}
             </div>
           ))}
         </div>
